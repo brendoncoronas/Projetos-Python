@@ -7,7 +7,7 @@ if nome and idade:
 
     if ' ' in nome:
         print('seu nome tem espaços.')
-
+ 
     else:
         print('seu nome nao tem espaços.')
 
