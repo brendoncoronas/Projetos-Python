@@ -1,8 +1,3 @@
-"""
-faça um programa que peça ao usuario para digitar um numero inteira,
-informe se este numero é par ou impar. caso o usuario nao digite um numero
-inteiro, infome que nao é um numero
-"""
 
 entrada = input('digite um numero:')
 try:
@@ -17,3 +12,5 @@ try:
 
 except:
     print('voce não digitou um numero inteiro.')
+    
+    
