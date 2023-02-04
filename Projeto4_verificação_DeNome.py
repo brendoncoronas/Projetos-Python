@@ -1,4 +1,4 @@
-# irei adicionar um mini texto introdutorio
+# irei adicionar um mini texto introdutório
 
 """
 fazer um programa qur peça o primeiro nome do usuario. se o nome tiver 4 letras ou menos
