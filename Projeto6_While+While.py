@@ -8,7 +8,7 @@ while linha <= qtd_linhas:
     print(linha)
     
     while coluna <= qtd_colunas:
-        print(f'{linha=}, {coluna=}')  # para cada linha sao 6 voltas na coluna
+        print(f'{linha=}, {coluna=}')  # para cada linha sao 6 voltas na coluna!
         coluna += 1
 
     linha +=1
