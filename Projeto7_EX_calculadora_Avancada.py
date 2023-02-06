@@ -1,11 +1,4 @@
-""" calculadora com whhile """
-
-# while True:  
-#     sair = input('deseja sair? [s]im:')
-#     sair = sair.lower() # retorna a mesma str enviada em "sair" (input) em letras minusculas.
-#     sair = sair.startswith('s')  # estamos checando se a palavra que for digitada começa com 's'
-
-# outra forma de fazer isso mais pratico:
+""" calculadora com while """
 
 while True:
     num_1 =  input('digite um numero:')
@@ -53,7 +46,7 @@ while True:
         print(f'{num_1_float} * {num_2_float} =',num_1_float * num_2_float)
 
 
-    sair = input('deseja sair? [s]im:').lower().startswith('s') # startswith esta atrelado ao q esta sendo retornado pelo Lower,e o lower estar sendo atrelado ao input
+    sair = input('deseja sair? [s]im:').lower().startswith('s') 
 
     if sair is True:
         print('voce saiu da calculadora.')
