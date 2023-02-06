@@ -1,4 +1,4 @@
-""" calculadora com while """
+""" calculadora avançada com while """
 
 while True:
     num_1 =  input('digite um numero:')
