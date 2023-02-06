@@ -6,8 +6,8 @@ while True:
     operador =  input('digite o operador (-+/*):')
     
     numeros_validos = None
-
-    num_1_float = 0 # estamos definindo as 2 variaveis fora do laço,boa pratica de conduta
+    
+    num_1_float = 0 
     num_2_float = 0
 
     try:
