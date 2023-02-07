@@ -4,7 +4,7 @@ frase = 'O python é uma liguagem de programação multiparadigma.'\
 
 
 qtd_apareceu_mais_vezes = 0 
-letra_apareceu_mais_vezes = ''
+letra_apareceu_mais_vezes = ""
 
 i = 0 
 
@@ -28,3 +28,4 @@ print(
     'A letra que apareceu mais vezes foi '
     f'"{letra_apareceu_mais_vezes}" apareceu '
     f'{qtd_apareceu_mais_vezes}x')
+
