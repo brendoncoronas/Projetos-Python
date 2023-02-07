@@ -1,5 +1,7 @@
 
-frase = 'o rato roeu a roupa do rei de roma, cole ne...'
+frase = 'O python é uma liguagem de programação multiparadigma.'\
+        'Python foi criado por Guido Van Rossum.'
+
 
 qtd_apareceu_mais_vezes = 0 
 letra_apareceu_mais_vezes = ''
