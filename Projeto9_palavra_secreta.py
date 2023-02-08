@@ -1,7 +1,7 @@
 import os
 
 palavra_secreta = 'perfume'
-letra_acertadas = '
+letra_acertadas = ''
 numeros_tentativas = 0 
 
 
