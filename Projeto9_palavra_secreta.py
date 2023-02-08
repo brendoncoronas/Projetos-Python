@@ -1,7 +1,8 @@
+import os
 
-palavra_secreta = 
-letra_acertadas = 
-numeros_tentativas = 
+palavra_secreta = 'perfume'
+letra_acertadas = '
+numeros_tentativas = 0 
 
 
 while True:
