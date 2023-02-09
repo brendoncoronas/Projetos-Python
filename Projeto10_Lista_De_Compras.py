@@ -6,7 +6,7 @@ não permitir que o programa quebre com erros
 de indices inexistentes na lista.
 """
 
-
+lista  = []
 
 while True:
     print('selecione uma opção:')
