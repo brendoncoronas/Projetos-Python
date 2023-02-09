@@ -12,7 +12,7 @@ while True:
     print('selecione uma opção:')
     opcao = input('[i]nserir [a]pagar [l]istar:')
 
-    if opcao == :
+    if opcao == 'i':
         os.system('cls')
         valor = input('valor: ')
         lista.append(valor)
