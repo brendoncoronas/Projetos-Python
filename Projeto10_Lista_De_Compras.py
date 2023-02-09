@@ -1,5 +1,5 @@
 """
-faça uma lista de compras com listas
+fazer uma lista de compras com listas
 o usuario deve ter a possibilidade de 
 inserir, apagar e listar valores da sua lista
 não permitir que o programa quebre com erros
