@@ -42,3 +42,8 @@ while True:
         for i, valor in enumerate(lista):
             print(i, valor)
    
+
+    else:
+        print('por favor, escolha i, a ou l.') 
+        
+        
