@@ -5,6 +5,7 @@ inserir, apagar e listar valores da sua lista
 não permitir que o programa quebre com erros
 de indices inexistentes na lista.
 """
+import os
 
 lista  = []
 
