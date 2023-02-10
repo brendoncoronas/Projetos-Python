@@ -2,7 +2,7 @@
 #podemos usar FOR
 
 salas = [
-    
+    # 0
     ['maria', 'helena',], # 0
     
     ['elaina',], # 1
