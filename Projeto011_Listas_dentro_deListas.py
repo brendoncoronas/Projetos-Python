@@ -4,10 +4,10 @@
 salas = [
     # 0
     ['maria', 'helena',], # 0
-    
+    # 0
     ['elaina',], # 1
-         1      2
-    ['luiz', 'joao', 'eduardo',], # 
+    #    0     1      2
+    ['luiz', 'joao', 'eduardo',], # 2
 
 ]
 print(salas[2][3][3])
