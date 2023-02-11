@@ -1,5 +1,4 @@
 """
-
 CPF: 746.824.890-70
 colete a soma dos 9 primeiros numeros digitados do CPF
 multiplicando cada um dos valores por uma 
@@ -21,8 +20,8 @@ se o resultado anterior for maior que 9:
     resultado é 0
 contrario disso:
     resultado é o valor da conta
-
 """
+
 import re
 import sys
 
@@ -52,6 +51,7 @@ digito_1 = (resultado_1 * 10) % 11
 digito_1 = digito_1 if digito_1 <= 9 else 0  
 
 # vamos calcular o segundo digito
+# devemos incluir o digito que acabamos de calcular
 
 dez_digitos = nove_digitos + str(digito_1)
 contador_regressivo_2 = 11
