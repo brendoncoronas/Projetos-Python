@@ -31,7 +31,6 @@ cpf_enviado_usuario = re.sub(
     r'[^0-9]', # qremos substituir qualquer coisa q n seja um numero de 0 a 9 (por isso usamos o ^)
     '', # e tudo q n for um numero substitua para o q esta entre aspas, q no caso é nada.
     entrada
-    
     )  
 
 entrada_e_sequencial = entrada == entrada[0] * len(entrada)
@@ -71,3 +70,5 @@ if cpf_enviado_usuario == cpf_gerado_pelo_calculo:
 
 else:
     print('CPF é invalido.')
+
+      
