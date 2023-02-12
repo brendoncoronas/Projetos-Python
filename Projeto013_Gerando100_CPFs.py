@@ -15,7 +15,8 @@ for _ in range(100):
     digito_1 = (resultado_1 * 10) % 11
 
     digito_1 = digito_1 if digito_1 <= 9 else 0  # digito vai ser igual a digito se digito for menor ou igual a 9, senão retorna 0
-
+    
+    # gerando segundo digito:
 
     dez_digitos = nove_digitos + str(digito_1)
     contador_regressivo_2 = 11
