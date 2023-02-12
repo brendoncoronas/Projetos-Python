@@ -1,10 +1,10 @@
-import random # gera coisas aleatorias
+import random 
 
 for _ in range(100):
     nove_digitos = ''
 
     for i in range(9):  
-        nove_digitos += random.randint(0, 9)  # .randint é para gerar numeros aleatirios entre o que qremos (entre 0 e 9 no caso) ja diz o nome randINT
+        nove_digitos += random.randint(0, 9)  
 
     contador_regressivo_1 = 10
     resultado_1 = 0 
