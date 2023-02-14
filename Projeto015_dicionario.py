@@ -15,7 +15,7 @@ perguntas =
         'resposta_certa': 'c'},
 }
 print('jogo de perguntas e respostas:'
-print(
+print()
 respostas_certas = 0
 
 for pk,pv in perguntas.items():
