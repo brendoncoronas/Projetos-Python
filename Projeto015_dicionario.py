@@ -13,7 +13,7 @@ perguntas =
         'pergunta': 'quanto é 5-5??',
         'respostas':{'a':'1','b':'2','c':'0'},
         'resposta_certa': 'c'},
-
+}
 print('jogo de perguntas e respostas:'
 print(
 respostas_certas = 0
