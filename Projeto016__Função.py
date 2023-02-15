@@ -5,7 +5,7 @@ retorne o total para uma variavel e mostre o valor
 da variavel.
 """
 
-def multiplicar(*args)
+def multiplicar(*args):
     total = 1 
     for numero in args:
         total *= numero
