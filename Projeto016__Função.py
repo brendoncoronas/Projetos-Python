@@ -1,5 +1,5 @@
 """
-crie uma função que multiplica todos os argumentos
+criar uma função que multiplica todos os argumentos
 não nomeados recebidos
 retorne o total para uma variavel e mostre o valor
 da variavel.
