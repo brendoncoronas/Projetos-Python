@@ -1,4 +1,12 @@
 
+"""
+fazer uma lista de tarefas com as seguintes opçoes:
+    adicionar tarefa
+    listar tarefa
+    opçao de desfazer (a cada vez que chamarmos,desfaz a ultima ação)
+    opção de refazer(a cada vez que chamarmos, refaz a ultima ação)
+"""
+
 def do_redo(todo_list,redo_list):
     if not redo_list:
         print('nada para refazer.')
