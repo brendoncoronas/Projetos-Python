@@ -3,7 +3,7 @@
 games = {'nome':[], 'videogame':[],'ano':[]}
 for i in range (3):
         nome = input('qual o nome do jogo?'
-        videogame = input('qual o videogame?'
+        videogame = input('qual o videogame?')
         ano = input('qual o ano do lançamento?')
         games['nome'].append(nome)
         games['videogame'].append(videogame)
