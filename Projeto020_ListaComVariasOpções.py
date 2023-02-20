@@ -6,7 +6,7 @@ def do_redo(todo_list,redo_list):
     last_redo = redo_list.pop()
     todo_list.append(last_redo)
 
-def show_op(todo_list:
+def show_op(todo_list):
     print()
     print('tarefas:')
     print()
