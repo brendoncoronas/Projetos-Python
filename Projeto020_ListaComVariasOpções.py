@@ -1,7 +1,7 @@
 
 def do_redo(todo_list,redo_list):
     if not redo_list:
-        print('nada para refazer.'
+        print('nada para refazer.')
         return
     last_redo = redo_list.pop()
     todo_list.append(last_redo)
