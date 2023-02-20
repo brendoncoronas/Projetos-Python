@@ -1,4 +1,4 @@
-
+# coloacando os valores do dicionarios com input, o usuaria irá completar a lista para nos
 
 games = {'nome':[], 'videogame':[],'ano':[]}
 for i in range (3):
