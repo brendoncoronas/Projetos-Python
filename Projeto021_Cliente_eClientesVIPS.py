@@ -24,7 +24,7 @@ class Cliente(
 # SubClasse
 class Aluno(Pessoa):  
     def estudar(self): 
-        print(f'{self.nomeClasse} esta estudando...'
+        print(f'{self.nomeClasse} esta estudando...')
 
 
 class ClienteVIP(Cliente):  
