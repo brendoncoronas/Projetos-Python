@@ -18,7 +18,7 @@ class Cliente(
         print(f'{self.nomeClasse} comprando...')
 
     def falar(self):
-        print(f'voce esta em CLIENTE.'
+        print(f'voce esta em CLIENTE.')
 
 
 # SubClasse
