@@ -8,7 +8,7 @@ class Pessoa:
         self.nomeClasse = self.__class__.__name__  
 
     def falar(self):  
-        print(f'{self.nomeClasse} Falando...'
+        print(f'{self.nomeClasse} Falando...')
 
 
 # SubClasse
