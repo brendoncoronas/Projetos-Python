@@ -15,7 +15,7 @@ class Pessoa:
 class Cliente(
     Pessoa):  
     def comprar(self):  
-        print(f'{self.nomeClasse} comprando...'
+        print(f'{self.nomeClasse} comprando...')
 
     def falar(self):
         print(f'voce esta em CLIENTE.'
