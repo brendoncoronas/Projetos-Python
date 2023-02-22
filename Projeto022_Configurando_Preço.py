@@ -15,7 +15,7 @@ class Produto:
         self._nome = valor.lower  
  
     @property
-    def preco(self:
+    def preco(self):
         return self._preco
 
     # Setter  
