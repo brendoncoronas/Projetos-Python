@@ -7,7 +7,7 @@ class Produto:
         self.preco = self.preco - (self.preco * (percentual / 100))
 
     @property  
-    def nome(self:
+    def nome(self):
         return self._nome
 
     @nome.setter
