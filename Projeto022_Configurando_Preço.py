@@ -11,7 +11,7 @@ class Produto:
         return self._nome
 
     @nome.setter
-    def nome(self, valor:
+    def nome(self, valor):
         self._nome = valor.lower  
  
     @property
