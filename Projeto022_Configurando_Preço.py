@@ -3,7 +3,7 @@ class Produto:
         self.nome = nome
         self.preco = preco
 
-    def desconto(self, percentual:
+    def desconto(self, percentual):
         self.preco = self.preco - (self.preco * (percentual / 100))
 
     @property  
