@@ -1,5 +1,6 @@
 """
-exercicio
+ideia de projeto:
+
 crie uma funçao que encontra o primeiro duplicado considerando o segundo
 número como a duplicação. retorne a duplicação considerada.
 requisitos:
