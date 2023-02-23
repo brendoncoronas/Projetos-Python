@@ -44,6 +44,7 @@ for lista in lista_de_lista_de_inteiros:  # nosso def esta agr recebendo as noss
    print(
     
     lista, 
-    encontra_primeiro_duplicado(lista)  
+    encontra_primeiro_duplicado(lista) 
+   )
     
 
