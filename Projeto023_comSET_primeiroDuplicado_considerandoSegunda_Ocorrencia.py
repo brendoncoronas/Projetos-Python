@@ -36,7 +36,7 @@ def encontra_primeiro_duplicado(lista_de_inteiros)
             primeiro_duplicado = numero # isso ira ser verdadeiro caso um numero apareça pela segunda vez
             break 
 
-        numeros_checados.add(numero
+        numeros_checados.add(numero)
 
     return primeiro_duplicado
 
