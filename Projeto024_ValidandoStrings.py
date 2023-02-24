@@ -1,7 +1,7 @@
 
 def valida_string(pergunta, min, max):
     s1 = input(pergunta)
-    tam = len(s1
+    tam = len(s1)
     while tam < min or tam > max:
         s1 = input(pergunta
         tam = len(s1
