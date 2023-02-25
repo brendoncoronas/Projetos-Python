@@ -14,7 +14,7 @@ def gen3():
     yield 10
     yield 20
     yield 30
-    print('terminou GEN3'
+    print('terminou GEN3')
 
 
 def gen2(gen):
