@@ -7,7 +7,7 @@ def gen1():
     yield 1
     yield 2
     yield 3
-    print('acabou GEN1'
+    print('acabou GEN1')
 
 def gen3():
     print('começou GEN3'
