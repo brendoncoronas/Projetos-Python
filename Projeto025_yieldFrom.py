@@ -3,7 +3,7 @@
 # é exelente para fazer continuações 
 
 def gen1():
-    print('começou GEN1'
+    print('começou GEN1')
     yield 1
     yield 2
     yield 3
