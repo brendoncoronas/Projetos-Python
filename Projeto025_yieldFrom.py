@@ -10,7 +10,7 @@ def gen1():
     print('acabou GEN1')
 
 def gen3():
-    print('começou GEN3'
+    print('começou GEN3')
     yield 10
     yield 20
     yield 30
