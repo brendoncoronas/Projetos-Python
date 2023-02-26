@@ -4,7 +4,7 @@ class Pessoa:
         self._nome = nome
 
     @property  # getter ta retornando o valor
-    def nome(self:
+    def nome(self):
         return self._nome
 
     @nome.setter  
