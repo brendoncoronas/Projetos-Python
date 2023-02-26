@@ -1,6 +1,6 @@
 
 class Pessoa:
-    def __init__(self,nome:
+    def __init__(self,nome):
         self._nome = nome
 
     @property  # getter ta retornando o valor
