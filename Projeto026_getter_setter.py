@@ -8,7 +8,7 @@ class Pessoa:
         return self._nome
 
     @nome.setter  
-    def nome(self, nome: 
+    def nome(self, nome): 
         self.atributo = nome  
 
 p1 = Pessoa()
