@@ -13,4 +13,4 @@ class Pessoa:
 
 p1 = Pessoa()
 p1.nome = 'joao'
-print(p1.nome
+print(p1.nome)
