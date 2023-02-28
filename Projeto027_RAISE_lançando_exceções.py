@@ -1,6 +1,6 @@
 # raise - lançando exceções (erros)
 
-def nao_aceito_zero(d:
+def nao_aceito_zero(d):
     if d == 0:
         raise ZeroDivisionError('voce esta tentando dividir por zero.'
     
