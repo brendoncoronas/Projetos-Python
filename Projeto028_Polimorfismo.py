@@ -7,7 +7,7 @@ class A(ABC):
 
 class B(A):
     def falar(self, msg):
-        print(f'B esta falando {msg}'
+        print(f'B esta falando {msg}')
 
 
 class C(A):
