@@ -6,7 +6,7 @@ def nao_aceito_zero(d):
     
     return True
 
-def deve_ser_int_ou_float(n: 
+def deve_ser_int_ou_float(n): 
     tipo_n = type(n 
     
     if not isinstance(n, (float, int)):
