@@ -6,7 +6,7 @@ class A(ABC):
     def fala(self, msg): pass
 
 class B(A):
-    def falar(self, msg:
+    def falar(self, msg):
         print(f'B esta falando {msg}'
 
 
