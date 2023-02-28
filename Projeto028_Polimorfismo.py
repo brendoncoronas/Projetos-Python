@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 
 class A(ABC):
     @abstractmethod   
-    def fala(self, msg: pass
+    def fala(self, msg): pass
 
 class B(A):
     def falar(self, msg:
