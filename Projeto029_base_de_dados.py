@@ -1,5 +1,5 @@
 class BaseDeDados:
-    def __init__(self:
+    def __init__(self):
         self.__dados = {  
     def inserir_cliente(self, id, nome:
         if 'clientes' not in self.__dados:
