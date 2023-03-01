@@ -3,7 +3,7 @@ class BaseDeDados:
         self.__dados = {}  
     def inserir_cliente(self, id, nome):
         if 'clientes' not in self.__dados:
-            self.__dados['clientes'] = {id: nome
+            self.__dados['clientes'] = {id: nome}
         else:
             self.__dados['clientes'].update({id: nome}
 
