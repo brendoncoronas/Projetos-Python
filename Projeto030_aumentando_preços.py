@@ -1,6 +1,10 @@
 
 import copy
 
+
+# aumentar os preços dos produtos a seguir em 10%
+# gerar novo_produtos por deep copy (copia profunda)
+
 produtos = [
     {'nome': 'produto 5', 'preco': 10.00},
     {'nome': 'produto 1', 'preco': 22.32},
@@ -10,10 +14,9 @@ produtos = [
 ]
 
 
-# aumentar os preços dos produtos a seguir em 10%
-# gerar novo_produtos por deep copy (copia profunda)
-
 novos_produtos = [
     {**p, 'preco': round(p['preco'] * 1.1, 2)} 
     for p in copy.deepcopy(produtos)
 ]
+
+
