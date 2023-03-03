@@ -1,7 +1,7 @@
 
 import copy
 
-produtos = 
+produtos = [
     {'nome': 'produto 5', 'preco': 10.00},
     {'nome': 'produto 1', 'preco': 22.32},
     {'nome': 'produto 3', 'preco': 10.11},
