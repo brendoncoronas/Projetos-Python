@@ -1,5 +1,5 @@
 
-import cop
+import copy
 
 produtos = 
     {'nome': 'produto 5', 'preco': 10.00},
