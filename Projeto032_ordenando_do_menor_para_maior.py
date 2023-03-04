@@ -18,7 +18,7 @@ produtos_ordenados_por_preco = sorted(
     
 )
 
-print(*produtos, sep='\n'
+print(*produtos, sep='\n')
 print()
 print(*novos_produtos, sep='\n'
 print(*produtos_ordenados_por_nome, sep='\n')
