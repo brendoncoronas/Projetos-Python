@@ -9,7 +9,7 @@ produtos = [
     {'nome': 'produto 3', 'preco': 10.11},
     {'nome': 'produto 2', 'preco': 105.87},
     {'nome': 'produto 4', 'preco': 69.90},
-
+]
 
 
 produtos_ordenados_por_preco = sorted(
