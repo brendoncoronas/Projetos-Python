@@ -10,7 +10,7 @@ def  criar_saudacao(saudacao):
         return f'{saudacao}, {nome}!'
     return saudar 
 
-falar_bom_dia = criar_saudacao('bom dia'
+falar_bom_dia = criar_saudacao('bom dia')
 falar_boa_noite = criar_saudacao('boa noite')
 
 for nome in ['maria', 'joão', 'laura']:
