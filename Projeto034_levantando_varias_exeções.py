@@ -4,9 +4,8 @@
 levantar mais de uma exeção com raise, no mesmo codigo
 """
 try:
-    a = 18
+    a = 8
     b = 0
-    print('linha1')
     c = a / b # estamos silenciando uma erro, pois o try ira tentar executar e se mesmo assim nao conseguir
   
 except ZeroDivisionError as e:
