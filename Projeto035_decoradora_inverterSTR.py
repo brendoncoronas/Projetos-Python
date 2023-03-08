@@ -2,7 +2,7 @@
 # utilizar funçoes DECORADORA como funcao principal
 
 def inverte_string(string):
-    return string[::-1
+    return string[::-1]
 
 def criar_funcao(func:
     def interna(*args, **kwargs:
