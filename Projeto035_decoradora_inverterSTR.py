@@ -6,7 +6,7 @@ def inverte_string(string):
 
 def criar_funcao(func):
     def interna(*args, **kwargs):
-        print('vou te decorar'
+        print('vou te decorar')
         for arg in args:
             e_string(arg)
 
