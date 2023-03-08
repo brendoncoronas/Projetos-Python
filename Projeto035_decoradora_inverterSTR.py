@@ -1,7 +1,7 @@
 # faça uma codigo que utilize 3 ou mais funçoes
 # utilizar funçoes DECORADORA como funcao principal
 
-def inverte_string(string:
+def inverte_string(string):
     return string[::-1
 
 def criar_funcao(func:
