@@ -5,7 +5,7 @@ def inverte_string(string):
     return string[::-1]
 
 def criar_funcao(func):
-    def interna(*args, **kwargs:
+    def interna(*args, **kwargs):
         print('vou te decorar'
         for arg in args:
             e_string(arg)
