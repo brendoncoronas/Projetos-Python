@@ -8,7 +8,7 @@
 from itertools import zip_longest
 
 
-l1 = ['salvador', 'ubatuba', 'belo horizonte'
+l1 = ['salvador', 'ubatuba', 'belo horizonte']
 l2 = ['BA', 'SP', 'MG', 'RJ']
 
 print(list(zip_longest(l1, l2, fillvalue='sem cidade(rj)'
