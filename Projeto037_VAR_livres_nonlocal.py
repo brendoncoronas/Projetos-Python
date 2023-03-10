@@ -2,7 +2,7 @@
 # crie uma função que contenha variavel livre
 # temos que alterar o valor dela concatenando com algo 
 
-def concatenar(string_inicial:
+def concatenar(string_inicial):
     valor_final = string_inicial
 
     def interna(valor_a_concatenar:
