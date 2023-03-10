@@ -10,7 +10,7 @@ alunos = [
     {'nome': 'rosemary', 'nota': 'C'},
     {'nome': 'joana', 'nota': 'D'},
     {'nome': 'joao', 'nota': 'A'},
-
+]
 
 
 def ordena(aluno:   # estamos ordenando por nota
