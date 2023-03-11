@@ -4,7 +4,7 @@ import json
 import os
 
 
-def listar(tarefas:
+def listar(tarefas):
     print(
     if not tarefas:
         print('Nenhuma tarefa para listar'
