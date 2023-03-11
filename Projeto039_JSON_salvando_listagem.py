@@ -10,7 +10,7 @@ def listar(tarefas):
         print('Nenhuma tarefa para listar')
         return
 
-    print('Tarefas:'
+    print('Tarefas:')
     for tarefa in tarefas:
         print(f'\t{tarefa}')
     print()
