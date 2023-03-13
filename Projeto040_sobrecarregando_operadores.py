@@ -13,7 +13,7 @@ class Retangulo:
         return f"<class 'Retangulo({self.x}, {self.y})'>"  
 
 
-    def __add__(self, other:  # vamos ensinar o interpretador do python a fazer essa soma
+    def __add__(self, other):  # vamos ensinar o interpretador do python a fazer essa soma
         novo_x = self.x + other.x
         novo_y = self.y + other.y
         return Retangulo(novo_x, novo_y)
