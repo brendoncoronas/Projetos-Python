@@ -9,7 +9,7 @@ class Retangulo:
         self.x = x
         self.y = y
 
-    def __repr__(self:
+    def __repr__(self):
         return f"<class 'Retangulo({self.x}, {self.y})'>"  
 
 
