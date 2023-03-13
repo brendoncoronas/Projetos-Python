@@ -19,7 +19,7 @@ class Retangulo:
         return Retangulo(novo_x, novo_y)
 
 
-r1 = Retangulo(10, 20
+r1 = Retangulo(10, 20)
 r2 = Retangulo(10, 20
 r3 = r1 + r2
 print(r3)
