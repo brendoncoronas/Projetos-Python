@@ -5,7 +5,7 @@ vamos alterar o comportamento de operadores com classes definidas pelo usuario.
 
 
 class Retangulo:
-    def __init__(self, x, y:
+    def __init__(self, x, y):
         self.x = x
         self.y = y
 
