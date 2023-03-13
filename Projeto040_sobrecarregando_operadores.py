@@ -20,6 +20,6 @@ class Retangulo:
 
 
 r1 = Retangulo(10, 20)
-r2 = Retangulo(10, 20
+r2 = Retangulo(10, 20)
 r3 = r1 + r2
 print(r3)
