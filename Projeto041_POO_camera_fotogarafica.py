@@ -41,5 +41,5 @@ c2 = Camera('sony')
 c1.filmar() # alem de começar a filma nos mantemos o valor 
 c1.filmar()
 
-print(c1.filmando) # estamos guardando os estados das coisas, ja que filmando de c1 virou True s       
+print(c1.filmando) # estamos guardando os estados das coisas, ja que filmando de c1 virou True 
 print(c2.filmando)        
