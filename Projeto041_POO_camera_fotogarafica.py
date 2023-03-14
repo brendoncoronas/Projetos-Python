@@ -11,7 +11,7 @@ class Camera:
     
     def filmar(self):
         if self.filmando:
-            print(f'{self.nome} JÁ esta filmando...'
+            print(f'{self.nome} JÁ esta filmando...')
             return 
 
         print(f'{self.nome} esta filmando...'
