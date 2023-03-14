@@ -20,7 +20,7 @@ class Camera:
 
     def parar_filmar(self):
         if not self.filmando:
-            print(f'{self.nome} NÃO esta filmando...'
+            print(f'{self.nome} NÃO esta filmando...')
             return 
 
         print(f'{self.nome} esta parando de filmando...'
