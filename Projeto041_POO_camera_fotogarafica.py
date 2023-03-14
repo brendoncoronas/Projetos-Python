@@ -23,7 +23,7 @@ class Camera:
             print(f'{self.nome} NÃO esta filmando...')
             return 
 
-        print(f'{self.nome} esta parando de filmando...'
+        print(f'{self.nome} esta parando de filmando...')
         self.filmando = False
 
 
