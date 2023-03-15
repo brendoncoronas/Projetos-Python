@@ -15,7 +15,7 @@ class Pessoa:
         print('hey')    
 
     @classmethod
-    def criar_com_50_anos(cls, nome:
+    def criar_com_50_anos(cls, nome):
         return cls(nome, 50) # cls esta retornando a propria classe Pessoa
     
     @classmethod
