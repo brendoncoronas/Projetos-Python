@@ -12,7 +12,7 @@ class Pessoa:
 
     @classmethod
     def metodo_de_classe(cls):
-        print('hey'    
+        print('hey')    
 
     @classmethod
     def criar_com_50_anos(cls, nome:
