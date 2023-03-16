@@ -13,7 +13,7 @@ class Caneta:
     def cor_tampa(self):
         return 'preta'                          
 
-caneta = Caneta('Azul'
+caneta = Caneta('Azul')
 
 print(caneta.cor)
 print(caneta.cor_tampa
