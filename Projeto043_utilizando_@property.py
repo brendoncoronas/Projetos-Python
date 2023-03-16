@@ -2,7 +2,7 @@
 # porem uma dessa configuraçoes tem que ser padronizada
 
 class Caneta:
-    def __inti__(self, cor):
+    def __init__(self, cor):
         self.cor_tinta = cor
 
     @property 
