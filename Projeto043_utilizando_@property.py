@@ -5,10 +5,10 @@ class Caneta:
     def __inti__(self, cor):
         self.cor_tinta = cor
 
-    @property # um metodo que se conporta como um atributo!!!!!!!!!!!!
+    @property 
     def cor(self): 
-        return self.cor_tinta # se colocassemos uma string escrita qualquer coisa aqui, iria aparecer nos 'print(caneta.cor)' de fora
-                              # o return retorna o valor que a gente quiser
+        return self.cor_tinta 
+    
     @property
     def cor_tampa(self):
         return 'preta'                          
