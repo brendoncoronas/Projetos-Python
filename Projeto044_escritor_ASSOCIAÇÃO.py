@@ -18,7 +18,7 @@ class Escritor:
         self._ferramenta = ferramenta
 
 
-class FerramentaDeEscrever
+class FerramentaDeEscrever:
     def _init_(self, nome)
         self.nome = nome
 
