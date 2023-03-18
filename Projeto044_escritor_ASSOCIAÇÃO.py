@@ -10,7 +10,7 @@ class Escritor:
         self._ferramenta = None
 
     @property
-    def ferramenta(self)
+    def ferramenta(self):
         return self._ferramenta
 
     @ferramenta.setter
