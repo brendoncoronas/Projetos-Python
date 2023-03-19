@@ -8,7 +8,7 @@ class Carrinho:
     def __init__(self)
         self._produtos = []
 
-    def total(self)
+    def total(self):
         return sum([p.preco for p in self._produtos])
     
     def inserir_produtos(self, *produtos): # jogamos todos os nossos produtos dentro dessa variavel com o asterisco
