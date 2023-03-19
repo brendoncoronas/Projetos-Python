@@ -8,7 +8,7 @@ class Cliente:
         self.nome = nome 
         self.endereco = []
 
-    def inserir_endereco(self, rua, numero:
+    def inserir_endereco(self, rua, numero):
         self.endereco.append(Endereco(rua, numero)
 
     def listar_enderecos(self):
