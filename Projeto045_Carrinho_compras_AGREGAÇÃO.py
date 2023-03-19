@@ -4,7 +4,7 @@
 #
 
 
-class Carrinho
+class Carrinho:
     def __init__(self)
         self._produtos = [
 
