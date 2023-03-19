@@ -1,12 +1,12 @@
 # Faça um projeto de uso CLARO
 # de AGREGAÇÃO com pelo menos 
 # 2 metodos diferentes
-#
+
 
 
 class Carrinho:
     def __init__(self)
-        self._produtos = [
+        self._produtos = []
 
     def total(self)
         return sum([p.preco for p in self._produtos])
