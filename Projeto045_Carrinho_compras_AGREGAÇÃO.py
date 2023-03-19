@@ -5,7 +5,7 @@
 
 
 class Carrinho:
-    def __init__(self)
+    def __init__(self):
         self._produtos = []
 
     def total(self):
