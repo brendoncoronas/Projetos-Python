@@ -6,7 +6,7 @@
 class Cliente:
     def __init__(self, nome):
         self.nome = nome 
-        self.endereco = [
+        self.endereco = []
 
     def inserir_endereco(self, rua, numero:
         self.endereco.append(Endereco(rua, numero)
