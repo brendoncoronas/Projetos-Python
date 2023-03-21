@@ -16,7 +16,7 @@ class Foo:
     def _metodo_protegido(self):
         return '_metodo_protegido'
     
-    def __metodo_private(self:
+    def __metodo_private(self):
         return '__metodo_privado'
     
     
