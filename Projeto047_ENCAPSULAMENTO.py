@@ -9,7 +9,7 @@ class Foo:
         self._protected = 'isso é protegido'
         self.__private = 'isso é privado'
 
-    def metodo_publico(self:
+    def metodo_publico(self):
         print(self.__private
         return 'metodo_publico'
 
