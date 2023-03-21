@@ -10,7 +10,7 @@ class Foo:
         self.__private = 'isso é privado'
 
     def metodo_publico(self):
-        print(self.__private
+        print(self.__private)
         return 'metodo_publico'
 
     def _metodo_protegido(self):
