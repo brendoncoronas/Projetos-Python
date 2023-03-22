@@ -13,7 +13,7 @@ class Log:
         raise NotImplementedError('implementando o metodo log')
     
     def log_error(self, msg):
-        return self._log(f'error: {msg}'
+        return self._log(f'error: {msg}')
 
     def log_success(self, msg):
         return self._log(f'success: {msg})
