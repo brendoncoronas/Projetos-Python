@@ -2,7 +2,7 @@
 from abc import ABC, abstractmethod
 
 class Notificacao(ABC):
-    def __init__(self, mensagem:
+    def __init__(self, mensagem):
         self.mensagem = mensagem
 
     @abstractmethod
