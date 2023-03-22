@@ -14,7 +14,7 @@ class NotificacaoEmail(Notificacao):
         print('E-mail: enviando - ', self.mensagem)
         return True
 
-class NotificacaoSMS(Notificacao:
+class NotificacaoSMS(Notificacao):
     def enviar(self) -> bool:
         print('SMS: enviando -', self.mensagem)
         return True
