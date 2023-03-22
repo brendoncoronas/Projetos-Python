@@ -9,7 +9,7 @@ class Notificacao(ABC):
     def enviar(self) -> bool: 
         ...
 
-class NotificacaoEmail(Notificacao:
+class NotificacaoEmail(Notificacao):
     def enviar(self) -> bool:
         print('E-mail: enviando - ', self.mensagem
         return True
