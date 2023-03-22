@@ -19,7 +19,7 @@ class Log:
         return self._log(f'success: {msg})
 
 
-class LogFileMixin(Log:  
+class LogFileMixin(Log):  
     def _log(self, msg):
         msg_formatada = f'{msg} {self.__class__.__name__}'
         print('salvando no log:', msg)
