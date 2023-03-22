@@ -16,7 +16,7 @@ class Log:
         return self._log(f'error: {msg}'
 
     def log_success(self, msg):
-        return self._log(f'success: {msg}
+        return self._log(f'success: {msg})
 
 
 class LogFileMixin(Log:  
