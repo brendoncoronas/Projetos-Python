@@ -1,6 +1,7 @@
 
 # faça um projeto
-# em que 
+# em que utilize de
+# polimorfismo
 
 
 from abc import ABC, abstractmethod
