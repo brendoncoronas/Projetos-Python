@@ -1,7 +1,9 @@
 
 # faça um projeto
 # em que utilize de
-# polimorfismo
+# polimorfismo, faça
+# no minimo duas classes
+
 
 
 from abc import ABC, abstractmethod
