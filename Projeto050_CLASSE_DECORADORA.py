@@ -4,7 +4,7 @@ class Multiplicador:
     def __init__(self, multiplicador):
         self._multiplicador = multiplicador
     
-    def __call__(self, func: 
+    def __call__(self, func): 
         def interna(*args, **kwargs:
             resultado = func(*args, **kwargs
             return resultado * self._multiplicador
