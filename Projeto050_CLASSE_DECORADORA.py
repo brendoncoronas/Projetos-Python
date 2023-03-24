@@ -6,7 +6,7 @@ class Multiplicador:
     
     def __call__(self, func): 
         def interna(*args, **kwargs):
-            resultado = func(*args, **kwargs
+            resultado = func(*args, **kwargs)
             return resultado * self._multiplicador
         
         return interna
