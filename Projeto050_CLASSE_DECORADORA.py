@@ -1,7 +1,7 @@
 # classes decoradora
 
 class Multiplicador:
-    def __init__(self, multiplicador:
+    def __init__(self, multiplicador):
         self._multiplicador = multiplicador
     
     def __call__(self, func: 
