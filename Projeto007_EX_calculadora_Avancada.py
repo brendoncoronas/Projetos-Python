@@ -1,5 +1,5 @@
 """ calculadora avançada com while 
-- utilize try
+- utilize try e 
 
 """
 
