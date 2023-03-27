@@ -1,4 +1,5 @@
 # faça um prjeto que
+# analise o nome que 
 
 
 nome = input('digite seu nome:')
