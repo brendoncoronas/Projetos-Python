@@ -1,4 +1,4 @@
-# faça um 
+# faça um prjeto que
 
 
 nome = input('digite seu nome:')
