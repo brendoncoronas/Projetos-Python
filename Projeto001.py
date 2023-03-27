@@ -1,6 +1,7 @@
 # faça um prjeto que
 # analise o nome que 
-
+# a pessoa colocar
+# diga se o nome tem espaços
 
 nome = input('digite seu nome:')
 idade = input('digite sua idade:')
