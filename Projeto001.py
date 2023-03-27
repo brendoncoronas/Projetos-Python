@@ -2,6 +2,7 @@
 # analise o nome que 
 # a pessoa colocar
 # diga se o nome tem espaços
+# quantas letras tem 
 
 nome = input('digite seu nome:')
 idade = input('digite sua idade:')
