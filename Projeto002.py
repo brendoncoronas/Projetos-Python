@@ -1,5 +1,5 @@
 # faça um projeto que calcule
-# o numero 
+# o numero passado pelo
 
 
 entrada = input('digite um numero:')
