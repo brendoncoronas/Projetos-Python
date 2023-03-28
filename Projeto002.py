@@ -1,6 +1,6 @@
 # faça um projeto que calcule
 # o numero passado pelo usuario é
-# 
+# par ou impar
 
 
 entrada = input('digite um numero:')
