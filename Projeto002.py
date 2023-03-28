@@ -1,4 +1,4 @@
-# faça um 
+# faça um projeto que
 
 
 entrada = input('digite um numero:')
