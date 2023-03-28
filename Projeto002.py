@@ -1,3 +1,5 @@
+# faça um 
+
 
 entrada = input('digite um numero:')
 try:
