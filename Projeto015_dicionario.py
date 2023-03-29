@@ -1,5 +1,5 @@
 # faça um projeto que faça uso de dicionarios
-# que mostre
+# que mostre bastante uso 
 
 perguntas = 
     'pergunta1': {
