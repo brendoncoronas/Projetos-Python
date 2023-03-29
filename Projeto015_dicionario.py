@@ -1,4 +1,5 @@
-# faça um projeto que faça uso de
+# faça um projeto que faça uso de dicionarios
+# 
 
 perguntas = 
     'pergunta1': {
