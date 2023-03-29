@@ -1,5 +1,5 @@
 # faça um projeto que faça uso de dicionarios
-# que mostre bastante uso key e 
+# que mostre bastante uso key e value
 
 perguntas = 
     'pergunta1': {
