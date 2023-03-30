@@ -2,7 +2,7 @@
 # iterando strings com while
 # faça um projeto que itere sobre o
 # nome, ou qualquer palavara, frase
-# e modifique-a de alguma 
+# e modifique-a de alguma maneira
 
 
 nome = 'brendon coronas'
