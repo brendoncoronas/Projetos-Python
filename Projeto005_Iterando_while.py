@@ -1,7 +1,7 @@
 
 # iterando strings com while
 # faça um projeto que itere sobre o
-# nome, ou qualquer palavara
+# nome, ou qualquer palavara, frase
 
 
 nome = 'brendon coronas'
