@@ -1,6 +1,7 @@
-"""
-iterando strings com while
-"""
+
+# iterando strings com while
+#
+
 
 nome = 'brendon coronas'
 novo_nome = ''
