@@ -1,6 +1,6 @@
 
 # iterando strings com while
-# faça um projeto que 
+# faça um projeto que itere sobre o
 
 
 nome = 'brendon coronas'
