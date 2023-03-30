@@ -1,6 +1,6 @@
 
 # iterando strings com while
-#
+# faça um 
 
 
 nome = 'brendon coronas'
