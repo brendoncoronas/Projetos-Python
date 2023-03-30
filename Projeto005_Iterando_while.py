@@ -1,6 +1,6 @@
 
 # iterando strings com while
-# faça um 
+# faça um projeto que 
 
 
 nome = 'brendon coronas'
