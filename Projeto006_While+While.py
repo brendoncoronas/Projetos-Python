@@ -1,3 +1,7 @@
+# faça um
+
+
+
 qtd_linhas = 6
 qtd_colunas = 6
 # em caso de duvida usar o debug!!!
