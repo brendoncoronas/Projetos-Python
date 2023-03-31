@@ -1,4 +1,4 @@
-# faça um projeto que crie linhas e colunas com while 
+# faça um projeto que crie linhas e colunas com while dentro
 
 
 
