@@ -1,3 +1,6 @@
+# faça um
+
+
 
 frase = 'O python é uma liguagem de programação multiparadigma.'\
         'Python foi criado por Guido Van Rossum.'
