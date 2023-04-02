@@ -1,5 +1,5 @@
 # faça um projeto que identifique a 
-# letra que apareceu 
+# letra que apareceu mais 
 
 
 frase = 'O python é uma liguagem de programação multiparadigma.'\
