@@ -1,6 +1,6 @@
 # faça um projeto que temos que
 # adivinhar uma determinada palavra.
-# estilo jogo da forca, com
+# estilo jogo da forca, com numero de
 # tentativas e erros
 
 import os
