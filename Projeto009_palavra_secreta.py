@@ -1,4 +1,4 @@
-# faça um projeto que estilo jogo
+# faça um projeto que temos que
 #
 #
 #
