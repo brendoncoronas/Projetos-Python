@@ -1,6 +1,5 @@
 # faça um projeto que temos que
-# adivinhar uma 
-#
+# adivinhar uma determinada palavra
 #
 
 
