@@ -1,6 +1,6 @@
 # faça um projeto que o usuário
 # tenha que completar um dicionario 
-# que tem varias 
+# que tem varias listas
 
 games = {'nome':[], 'videogame':[],'ano':[]}
 for i in range (3):
