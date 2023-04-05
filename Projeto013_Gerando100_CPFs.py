@@ -1,3 +1,5 @@
+# faça 
+
 import random 
 
 for _ in range(100):
