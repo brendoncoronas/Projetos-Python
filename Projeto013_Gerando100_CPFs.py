@@ -1,5 +1,5 @@
 # faça um projeto em que o codigo
-# gere mais de cem 
+# gere mais de cem CPFs
 
 
 import random 
