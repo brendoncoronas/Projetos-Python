@@ -1,5 +1,5 @@
 # faça um projeto que o usuário
-# tenha que 
+# tenha que completar
 
 games = {'nome':[], 'videogame':[],'ano':[]}
 for i in range (3):
