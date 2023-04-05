@@ -1,4 +1,4 @@
-# faça um projeto em que 
+# faça um projeto em que o codigo
 
 import random 
 
