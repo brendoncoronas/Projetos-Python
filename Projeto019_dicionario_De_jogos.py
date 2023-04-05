@@ -1,5 +1,6 @@
 # faça um projeto que o usuário
 # tenha que completar um dicionario 
+# que 
 
 games = {'nome':[], 'videogame':[],'ano':[]}
 for i in range (3):
