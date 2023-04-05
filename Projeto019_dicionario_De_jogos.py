@@ -1,4 +1,4 @@
-# faça um projeto que o 
+# faça um projeto que o usuário
 
 games = {'nome':[], 'videogame':[],'ano':[]}
 for i in range (3):
