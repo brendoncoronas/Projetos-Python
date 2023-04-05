@@ -1,5 +1,5 @@
 # faça um projeto em que o codigo
-# gere
+# gere mais de 
 
 
 import random 
