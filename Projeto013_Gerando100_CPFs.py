@@ -1,5 +1,5 @@
 # faça um projeto em que o codigo
-# gere mais de 
+# gere mais de cem 
 
 
 import random 
