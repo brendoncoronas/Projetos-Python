@@ -1,4 +1,4 @@
-# faça um projeto que
+# faça um projeto que o 
 
 games = {'nome':[], 'videogame':[],'ano':[]}
 for i in range (3):
