@@ -1,6 +1,6 @@
 # faça um projeto em que o codigo
 # gere mais de cem CPFs
-# dica:
+# dica: tera que 
 
 
 import random 
