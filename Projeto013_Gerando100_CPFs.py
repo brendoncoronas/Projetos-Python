@@ -1,4 +1,4 @@
-# faça 
+# faça um projeto
 
 import random 
 
