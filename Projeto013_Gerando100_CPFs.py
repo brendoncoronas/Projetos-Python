@@ -1,4 +1,6 @@
 # faça um projeto em que o codigo
+# gere
+
 
 import random 
 
