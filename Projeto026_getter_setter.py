@@ -1,5 +1,5 @@
 # faça um projeto que faça
-# um de Getter e 
+# um de Getter e Setter
 
 
 class Pessoa:
