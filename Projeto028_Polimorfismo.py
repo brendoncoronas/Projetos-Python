@@ -1,4 +1,4 @@
-# faça um projeto que mostre o uso de polimor
+# faça um projeto que mostre o uso de polimorfis
 
 
 from abc import ABC, abstractmethod
