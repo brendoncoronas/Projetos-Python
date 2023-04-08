@@ -1,4 +1,4 @@
-# faça um projeto que mostre 
+# faça um projeto que mostre o 
 
 
 from abc import ABC, abstractmethod
