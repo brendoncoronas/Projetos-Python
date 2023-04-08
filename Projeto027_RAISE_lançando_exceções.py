@@ -1,6 +1,6 @@
 # raise - lançando exceções (erros)
 # faça um projeto que mostre claramente
-# o uso 
+# o uso de 
 
 def nao_aceito_zero(d):
     if d == 0:
