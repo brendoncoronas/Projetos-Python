@@ -1,5 +1,5 @@
 # raise - lançando exceções (erros)
-# faça um 
+# faça um projeto
 
 def nao_aceito_zero(d):
     if d == 0:
