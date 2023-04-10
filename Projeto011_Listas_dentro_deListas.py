@@ -1,5 +1,5 @@
 
-# faça um projeto que 
+# faça um projeto que mostre
 
 salas = [
     # 0
