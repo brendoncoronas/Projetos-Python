@@ -1,3 +1,5 @@
+# faça 
+
 
 def valida_string(pergunta, min, max):
     s1 = input(pergunta)
