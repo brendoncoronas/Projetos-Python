@@ -1,7 +1,7 @@
 
 # faça um projeto que mostre a
 # usabilidade do FOR em uma lista
-# dentro de outra 
+# dentro de outra lista
 
 salas = [
     # 0
