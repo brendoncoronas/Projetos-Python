@@ -1,4 +1,4 @@
-# faça 
+# faça um 
 
 
 def valida_string(pergunta, min, max):
