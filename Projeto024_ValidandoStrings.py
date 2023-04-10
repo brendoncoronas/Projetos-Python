@@ -1,4 +1,4 @@
-# faça um projeto que 
+# faça um projeto que valide
 
 
 def valida_string(pergunta, min, max):
