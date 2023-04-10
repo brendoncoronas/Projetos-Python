@@ -1,5 +1,5 @@
 
-#podemos usar FOR
+# faça
 
 salas = [
     # 0
