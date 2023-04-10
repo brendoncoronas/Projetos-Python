@@ -1,6 +1,6 @@
 
 # faça um projeto que mostre a
-# usabilidade do FOR em 
+# usabilidade do FOR em uma 
 
 salas = [
     # 0
