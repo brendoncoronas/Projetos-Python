@@ -1,5 +1,5 @@
 # faça um projeto que valide uma string
-# cheque se a palavra tem entre 
+# cheque se a palavra tem entre 10
 
 
 def valida_string(pergunta, min, max):
