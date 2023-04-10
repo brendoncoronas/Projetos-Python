@@ -1,7 +1,6 @@
 # faça um projeto que valide uma string
 # cheque se a palavra tem entre 10 e 30
-# 
-
+# caracter
 
 def valida_string(pergunta, min, max):
     s1 = input(pergunta)
