@@ -1,5 +1,5 @@
 
-# faça um projeto
+# faça um projeto que 
 
 salas = [
     # 0
