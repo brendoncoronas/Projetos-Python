@@ -1,5 +1,5 @@
 
-# faça
+# faça um 
 
 salas = [
     # 0
