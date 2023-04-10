@@ -1,6 +1,6 @@
 
 # faça um projeto que mostre a
-# usabilidade
+# usabilidade do 
 
 salas = [
     # 0
