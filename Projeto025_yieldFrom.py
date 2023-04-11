@@ -1,4 +1,4 @@
-# faça uma 
+# faça uma função
 
 def gen1():
     print('começou GEN1')
