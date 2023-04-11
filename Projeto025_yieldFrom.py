@@ -1,4 +1,4 @@
-# faça um  uma função que mostre a usabilidade do yield
+# faça um projeto uma função que mostre a usabilidade do yield
 
 def gen1():
     print('começou GEN1')
