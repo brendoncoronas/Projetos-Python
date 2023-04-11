@@ -1,6 +1,4 @@
-# yield from 
-
-# é exelente para fazer continuações 
+# faça
 
 def gen1():
     print('começou GEN1')
