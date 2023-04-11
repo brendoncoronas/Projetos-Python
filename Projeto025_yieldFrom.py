@@ -1,4 +1,4 @@
-# faça uma função que mostre a 
+# faça uma função que mostre a usabilidade 
 
 def gen1():
     print('começou GEN1')
