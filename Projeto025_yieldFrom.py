@@ -1,4 +1,4 @@
-# faça uma função que mostre a usabilidade do
+# faça uma função que mostre a usabilidade do yield
 
 def gen1():
     print('começou GEN1')
