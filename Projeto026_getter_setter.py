@@ -1,4 +1,4 @@
-# faça um projeto que
+# faça um projeto que mostre
 
 class Pessoa:
     def __init__(self,nome):
