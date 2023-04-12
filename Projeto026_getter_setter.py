@@ -1,5 +1,5 @@
 # faça um projeto que mostre o 
-# 
+# uso 
 
 class Pessoa:
     def __init__(self,nome):
