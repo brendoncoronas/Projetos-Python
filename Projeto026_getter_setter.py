@@ -1,4 +1,4 @@
-# faça um projeto que mostre clara
+# faça um projeto que mostre claramen
 # uso de getter e setter
 
 class Pessoa:
