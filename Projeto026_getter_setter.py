@@ -1,5 +1,5 @@
 # faça um projeto que mostre o 
-# uso de getter e 
+# uso de getter e setter
 
 class Pessoa:
     def __init__(self,nome):
