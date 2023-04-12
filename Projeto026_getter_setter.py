@@ -1,4 +1,4 @@
-# faça um 
+# faça um projeto
 
 class Pessoa:
     def __init__(self,nome):
