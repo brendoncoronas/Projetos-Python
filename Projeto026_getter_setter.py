@@ -1,4 +1,4 @@
-# faça um projeto que mostre cla
+# faça um projeto que mostre clara
 # uso de getter e setter
 
 class Pessoa:
