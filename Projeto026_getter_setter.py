@@ -1,5 +1,5 @@
 # faça um projeto que mostre o 
-# uso 
+# uso de 
 
 class Pessoa:
     def __init__(self,nome):
