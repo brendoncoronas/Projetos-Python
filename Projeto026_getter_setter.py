@@ -1,6 +1,4 @@
-# faça um projeto que faça
-# um de Getter e Setter
-
+# faça 
 
 class Pessoa:
     def __init__(self,nome):
