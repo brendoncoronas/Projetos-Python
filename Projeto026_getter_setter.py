@@ -1,4 +1,4 @@
-# faça um projeto que mostre o 
+# faça um projeto que mostre o ver
 # uso de getter e setter
 
 class Pessoa:
