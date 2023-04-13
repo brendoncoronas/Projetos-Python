@@ -1,4 +1,4 @@
-# faça um projeto que 
+# faça um projeto que tenha 
 
 class BaseDeDados:
     def __init__(self):
