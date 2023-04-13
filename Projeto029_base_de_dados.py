@@ -1,4 +1,4 @@
-# faça 
+# faça um 
 
 class BaseDeDados:
     def __init__(self):
