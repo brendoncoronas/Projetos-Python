@@ -1,5 +1,5 @@
 # faça um projeto que tenha uma base de 
-# dados que tenha a opção 
+# dados que tenha a opção de 
 
 class BaseDeDados:
     def __init__(self):
