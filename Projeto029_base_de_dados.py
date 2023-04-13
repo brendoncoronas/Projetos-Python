@@ -1,5 +1,5 @@
 # faça um projeto que tenha uma base de 
-# dados 
+# dados que 
 
 class BaseDeDados:
     def __init__(self):
