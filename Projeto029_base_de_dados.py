@@ -1,6 +1,6 @@
 # faça um projeto que tenha uma base de 
 # dados que tenha a opção de inserir e 
-# deletar clientes
+# deletar clientes salvos
 
 class BaseDeDados:
     def __init__(self):
