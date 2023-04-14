@@ -1,5 +1,5 @@
 # faça um projeto que mostre o uso 
-# claro de polimor
+# claro de polimorf
 
 
 from abc import ABC, abstractmethod
