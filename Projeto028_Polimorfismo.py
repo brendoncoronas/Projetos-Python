@@ -1,5 +1,5 @@
 # faça um projeto que mostre o uso 
-# claro de polim
+# claro de polimo
 
 
 from abc import ABC, abstractmethod
