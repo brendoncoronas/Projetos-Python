@@ -1,5 +1,5 @@
 # faça um projeto que mostre o uso 
-# claro 
+# claro de 
 
 
 from abc import ABC, abstractmethod
