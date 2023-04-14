@@ -1,6 +1,6 @@
 # faça um projeto que mostre o uso 
 # claro de polimorfismo
-# nao preci
+# nao precisa
 
 
 from abc import ABC, abstractmethod
