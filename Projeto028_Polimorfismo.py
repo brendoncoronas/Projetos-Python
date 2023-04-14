@@ -1,5 +1,5 @@
 # faça um projeto que mostre o uso 
-# claro de po
+# claro de pol
 
 
 from abc import ABC, abstractmethod
