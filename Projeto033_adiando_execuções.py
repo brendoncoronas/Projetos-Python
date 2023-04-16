@@ -1,4 +1,4 @@
-# faça um projeto que mostre o 
+# faça um projeto que mostre o u
 
 def  criar_saudacao(saudacao):
     def saudar(nome):
