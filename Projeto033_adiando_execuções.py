@@ -1,4 +1,4 @@
-# 
+# faça
 
 def  criar_saudacao(saudacao):
     def saudar(nome):
