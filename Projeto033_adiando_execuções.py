@@ -1,9 +1,4 @@
-
-"""
-
-closure e funções que retornam outras funções
-
-"""
+# 
 
 def  criar_saudacao(saudacao):
     def saudar(nome):
