@@ -1,5 +1,5 @@
 # faça um projeto que mostre o uso
-# claro de clos
+# claro de closu
 
 def  criar_saudacao(saudacao):
     def saudar(nome):
