@@ -1,4 +1,4 @@
-# faça um projeto que mos
+# faça um projeto que mostre 
 
 def  criar_saudacao(saudacao):
     def saudar(nome):
