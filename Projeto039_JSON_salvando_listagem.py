@@ -1,4 +1,4 @@
-# uma funçã
+# uma função
 
 
 
