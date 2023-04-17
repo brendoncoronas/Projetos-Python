@@ -1,6 +1,6 @@
 # classes decoradora
 # faça um projeto que mostre o uso
-# claro de uma cla
+# claro de uma classe
 
 class Multiplicador:
     def __init__(self, multiplicador):
