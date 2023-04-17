@@ -1,4 +1,4 @@
-# uma função que seja uma
+# uma função que seja uma e
 
 
 
