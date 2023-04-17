@@ -1,5 +1,5 @@
 # classes decoradora
-# faça u
+# faça um
 
 class Multiplicador:
     def __init__(self, multiplicador):
