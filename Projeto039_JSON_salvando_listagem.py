@@ -1,5 +1,5 @@
 # uma função que seja uma e
-# salve-a em
+# salve-a em J
 
 
 
