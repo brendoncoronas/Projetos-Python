@@ -1,5 +1,5 @@
 # classes decoradora
-# faça um projeto que mostre o u
+# faça um projeto que mostre o us
 
 class Multiplicador:
     def __init__(self, multiplicador):
