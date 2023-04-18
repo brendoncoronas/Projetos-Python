@@ -1,4 +1,4 @@
-# fa
+# faç
 
 
 entrada = input('digite a hora em numeros inteiros:')
