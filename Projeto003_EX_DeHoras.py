@@ -1,4 +1,4 @@
-# faça um projet
+# faça um projeto
 
 
 entrada = input('digite a hora em numeros inteiros:')
