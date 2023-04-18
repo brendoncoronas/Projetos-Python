@@ -1,4 +1,4 @@
-# faça um projeto que mostre a 
+# faça um projeto que mostre a s
 
 
 entrada = input('digite a hora em numeros inteiros:')
