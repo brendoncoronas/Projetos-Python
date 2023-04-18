@@ -1,4 +1,4 @@
-# faça um projeto que mostre a sau
+# faça um projeto que mostre a saud
 
 
 entrada = input('digite a hora em numeros inteiros:')
