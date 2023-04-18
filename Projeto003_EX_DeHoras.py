@@ -1,4 +1,4 @@
-# faça um pr
+# faça um pro
 
 
 entrada = input('digite a hora em numeros inteiros:')
