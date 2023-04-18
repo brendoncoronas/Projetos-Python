@@ -1,4 +1,4 @@
-# faça um projeto que mostre a saudaçã
+# faça um projeto que mostre a saudação 
 
 
 entrada = input('digite a hora em numeros inteiros:')
