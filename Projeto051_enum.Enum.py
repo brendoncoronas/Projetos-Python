@@ -1,4 +1,4 @@
-# enumerações na proma
+# enumerações na progra
 
 
 import enum  
