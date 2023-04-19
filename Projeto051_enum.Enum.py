@@ -1,3 +1,6 @@
+# 
+
+
 import enum  
 
 # Direcoes = enum.Enum('Direcoes', ['ESQUERDA', 'DIREITA'])
