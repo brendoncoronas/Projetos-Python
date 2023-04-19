@@ -1,4 +1,4 @@
-import enum  # 1         #2
+import enum  
 
 # Direcoes = enum.Enum('Direcoes', ['ESQUERDA', 'DIREITA'])
 
