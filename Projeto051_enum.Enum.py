@@ -1,5 +1,5 @@
 # enumerações na programação é usada em ocasioes onde temos
-# um determinado numero de coisas 
+# um determinado numero de coisas. 
 
 import enum  
 
