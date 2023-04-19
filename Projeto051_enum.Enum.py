@@ -1,4 +1,4 @@
-# enumerações na pro
+# enumerações na proma
 
 
 import enum  
