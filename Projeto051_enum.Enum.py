@@ -1,4 +1,4 @@
-# enumerações na programa
+# enumerações na programação
 
 
 import enum  
