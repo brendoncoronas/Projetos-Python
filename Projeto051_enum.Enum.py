@@ -7,7 +7,7 @@ class Direcoes(enum.Enum:
     ESQUERDA = enum.auto() # enumera automaticamente
     DIREITA = enum.auto()
     ACIMA = enum.auto()
-    ABAIXO = enum.auto(
+    ABAIXO = enum.auto()
 
 
 print(Direcoes(1), Direcoes['ESQUERDA'], Direcoes.ESQUERDA)
