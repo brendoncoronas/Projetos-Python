@@ -4,7 +4,7 @@ import enum  # 1         #2
 
 
 class Direcoes(enum.Enum:
-    ESQUERDA = enum.auto( # enumera automaticamente
+    ESQUERDA = enum.auto() # enumera automaticamente
     DIREITA = enum.auto(
     ACIMA = enum.auto(
     ABAIXO = enum.auto(
