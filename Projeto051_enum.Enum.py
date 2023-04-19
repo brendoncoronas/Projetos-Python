@@ -1,4 +1,4 @@
-# enumerações na programação é usada em ocasioes onde
+# enumerações na programação é usada em ocasioes onde temos
 
 
 import enum  
