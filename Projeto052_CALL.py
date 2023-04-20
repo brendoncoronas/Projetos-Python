@@ -1,4 +1,4 @@
-# faça um que mostre o uso
+# faça um que mostre o uso c
 
 class CallMe:
     def __init__(self, phone):
