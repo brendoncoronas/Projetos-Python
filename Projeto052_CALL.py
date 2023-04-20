@@ -1,4 +1,4 @@
-# faça um que mostre
+# faça um que mostre o
 
 class CallMe:
     def __init__(self, phone):
