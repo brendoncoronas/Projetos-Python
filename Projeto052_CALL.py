@@ -1,5 +1,5 @@
 class CallMe:
-    def __init__(self, phone:
+    def __init__(self, phone):
         self.phone = phone
 
     def __call__(self, nome:
