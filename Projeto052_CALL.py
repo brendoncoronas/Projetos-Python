@@ -1,4 +1,4 @@
-# faça um q
+# faça um qu
 
 class CallMe:
     def __init__(self, phone):
