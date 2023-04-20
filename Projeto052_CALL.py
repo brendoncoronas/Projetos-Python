@@ -1,4 +1,4 @@
-# faça u
+# faça um
 
 class CallMe:
     def __init__(self, phone):
