@@ -1,4 +1,4 @@
-# faça um que mostre o uso claro
+# faça um que mostre o uso claro d
 
 class CallMe:
     def __init__(self, phone):
