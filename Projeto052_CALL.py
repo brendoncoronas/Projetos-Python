@@ -1,4 +1,4 @@
-# faça um que mostre o us
+# faça um que mostre o uso
 
 class CallMe:
     def __init__(self, phone):
