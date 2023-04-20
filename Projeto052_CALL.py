@@ -1,4 +1,4 @@
-# faça um que mostre o uso claro de CA
+# faça um que mostre o uso claro de CAL
 
 class CallMe:
     def __init__(self, phone):
