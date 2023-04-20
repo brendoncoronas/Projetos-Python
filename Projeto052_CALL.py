@@ -1,4 +1,4 @@
-# faça um que mostre o uso cla
+# faça um que mostre o uso clar
 
 class CallMe:
     def __init__(self, phone):
