@@ -1,4 +1,4 @@
-# faça um que most
+# faça um que mostr
 
 class CallMe:
     def __init__(self, phone):
