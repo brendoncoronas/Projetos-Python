@@ -1,4 +1,4 @@
-# faça um que mo
+# faça um que mos
 
 class CallMe:
     def __init__(self, phone):
