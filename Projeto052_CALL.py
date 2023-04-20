@@ -1,4 +1,4 @@
-# faça
+# faça u
 
 class CallMe:
     def __init__(self, phone):
