@@ -3,7 +3,7 @@ class CallMe:
         self.phone = phone
 
     def __call__(self, nome):
-        print(nome, 'chamando', self.phone
+        print(nome, 'chamando', self.phone)
 
 
 call1 = CallMe('3857617618' # é para ser um numero de celular
