@@ -1,4 +1,4 @@
-# faça um que mostre o uso claro de
+# faça um que mostre o uso claro de C
 
 class CallMe:
     def __init__(self, phone):
