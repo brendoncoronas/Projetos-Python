@@ -1,4 +1,4 @@
-# fa um projeto
+# faç um projeto
 
 from  itertools import groupby
 
