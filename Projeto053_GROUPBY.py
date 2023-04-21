@@ -1,4 +1,4 @@
-# faça um projeto que ordene uma lista com v
+# faça um projeto que ordene uma lista com va
 
 from  itertools import groupby
 
