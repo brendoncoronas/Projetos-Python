@@ -13,7 +13,7 @@ alunos = [
 def ordena(aluno):   # estamos ordenando por nota
     return aluno['nota']
 
-alunos_agrupados = sorted(alunos, key=ordena
+alunos_agrupados = sorted(alunos, key=ordena)
 
 grupos = groupby(alunos_agrupados, key=ordena
 
