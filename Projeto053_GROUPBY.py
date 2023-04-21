@@ -5,7 +5,7 @@ alunos = [
     {'nome': 'leticia', 'nota': 'B'},
     {'nome': 'fabricio', 'nota': 'A'},
     {'nome': 'rosemary', 'nota': 'C'},
-    {'nome': 'joana', 'nota': 'D'
+    {'nome': 'joana', 'nota': 'D'}
     {'nome': 'joao', 'nota': 'A'
 ]
 
