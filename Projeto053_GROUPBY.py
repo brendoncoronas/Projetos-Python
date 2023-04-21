@@ -1,4 +1,4 @@
-# faça um projeto que o
+# faça um projeto que or
 
 from  itertools import groupby
 
