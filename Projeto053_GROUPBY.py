@@ -1,7 +1,7 @@
 from  itertools import groupby
 
 alunos = [
-    {'nome': 'luiz', 'nota': 'A'
+    {'nome': 'luiz', 'nota': 'A'}
     {'nome': 'leticia', 'nota': 'B'
     {'nome': 'fabricio', 'nota': 'A'
     {'nome': 'rosemary', 'nota': 'C'
