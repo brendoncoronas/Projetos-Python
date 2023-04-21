@@ -1,4 +1,4 @@
-# faça um projeto que ordene uma lista com vario
+# faça um projeto que ordene uma lista com varios
 
 from  itertools import groupby
 
