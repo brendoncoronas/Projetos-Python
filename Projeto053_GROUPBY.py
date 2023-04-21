@@ -10,7 +10,7 @@ alunos = [
 ]
 
 
-def ordena(aluno:   # estamos ordenando por nota
+def ordena(aluno):   # estamos ordenando por nota
     return aluno['nota'
 
 alunos_agrupados = sorted(alunos, key=ordena
