@@ -1,4 +1,4 @@
-# faça um projeto que ordene uma lista com varios
+# faça um projeto que ordene uma lista com varios dicionarios
 
 from  itertools import groupby
 
