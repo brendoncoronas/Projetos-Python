@@ -1,3 +1,5 @@
+# 
+
 from  itertools import groupby
 
 alunos = [
