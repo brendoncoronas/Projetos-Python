@@ -1,4 +1,4 @@
-# faça um
+# faça um p
 
 class A:
     atributo_a = 'valor a'
