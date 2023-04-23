@@ -1,4 +1,4 @@
-# 
+# f
 
 class A:
     atributo_a = 'valor a'
