@@ -11,7 +11,7 @@ class B(A):
     def metodo(self)
         print('B')
 
-class C(B
+class C(B)
     atributo_c = 'valor c
 
     def metodo(self
