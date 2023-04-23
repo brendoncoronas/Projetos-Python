@@ -1,4 +1,4 @@
-# faça um projeto que mostre o uso claro de SU
+# faça um projeto que mostre o uso claro de SUPER
 
 class A:
     atributo_a = 'valor a'
