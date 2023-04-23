@@ -1,4 +1,4 @@
-# faça um projeto que mostre o 
+# faça um projeto que mostre o us
 
 class A:
     atributo_a = 'valor a'
