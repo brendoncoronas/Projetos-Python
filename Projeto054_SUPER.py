@@ -1,4 +1,4 @@
-# faça um projeto que
+# faça um projeto que mos
 
 class A:
     atributo_a = 'valor a'
