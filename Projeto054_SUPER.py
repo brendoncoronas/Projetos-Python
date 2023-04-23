@@ -6,7 +6,7 @@ class A:
         print('A')
 
 class B(A):
-    atributo_b = 'valor b
+    atributo_b = 'valor b'
 
     def metodo(self
         print('B'
