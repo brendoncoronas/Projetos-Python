@@ -1,4 +1,4 @@
-# faça um pr
+# faça um pro
 
 class A:
     atributo_a = 'valor a'
