@@ -1,4 +1,4 @@
-# faça um projeto que mostre o uso claro de 
+# faça um projeto que mostre o uso claro de SU
 
 class A:
     atributo_a = 'valor a'
