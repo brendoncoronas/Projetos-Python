@@ -1,4 +1,4 @@
-# faça 
+# faça u
 
 class A:
     atributo_a = 'valor a'
