@@ -2,7 +2,7 @@
 class A:
     atributo_a = 'valor a'
 
-    def metodo(self)
+    def metodo(self):
         print('A'
 
 class B(A
