@@ -1,4 +1,4 @@
-# faça um projeto q
+# faça um projeto qu
 
 class A:
     atributo_a = 'valor a'
