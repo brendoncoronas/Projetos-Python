@@ -1,4 +1,4 @@
-# faça um projeto que mostre o uso
+# faça um projeto que mostre o uso cla
 
 class A:
     atributo_a = 'valor a'
