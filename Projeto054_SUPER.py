@@ -16,7 +16,7 @@ class C(B):
 
     def metodo(self)
         super(B, self).metodo()
-        print('C
+        print('C'
 
 c = C()
 print(c.atributo_a
