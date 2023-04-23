@@ -8,7 +8,7 @@ class A:
 class B(A):
     atributo_b = 'valor b'
 
-    def metodo(self
+    def metodo(self)
         print('B'
 
 class C(B
