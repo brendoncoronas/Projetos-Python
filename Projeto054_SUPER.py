@@ -9,7 +9,7 @@ class B(A):
     atributo_b = 'valor b'
 
     def metodo(self)
-        print('B'
+        print('B')
 
 class C(B
     atributo_c = 'valor c
