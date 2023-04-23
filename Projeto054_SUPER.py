@@ -1,6 +1,6 @@
 
 class A:
-    atributo_a = 'valor a
+    atributo_a = 'valor a'
 
     def metodo(self
         print('A'
