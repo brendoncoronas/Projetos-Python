@@ -5,7 +5,7 @@ class A:
     def metodo(self):
         print('A')
 
-class B(A
+class B(A)
     atributo_b = 'valor b
 
     def metodo(self
