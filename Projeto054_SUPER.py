@@ -1,4 +1,4 @@
-# faça um projeto que mos
+# faça um projeto que mostre
 
 class A:
     atributo_a = 'valor a'
