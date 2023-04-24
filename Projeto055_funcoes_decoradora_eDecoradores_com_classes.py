@@ -26,7 +26,7 @@ portugal = Time('Portugal')
 terra = Planeta('Terra')
 marte = Planeta('Marte')
 
-print(brasil
+print(brasil)
 print(portugal
 
 print(terra
