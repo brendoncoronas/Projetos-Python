@@ -30,4 +30,4 @@ print(brasil)
 print(portugal)
 
 print(terra)
-print(marte
+print(marte)
