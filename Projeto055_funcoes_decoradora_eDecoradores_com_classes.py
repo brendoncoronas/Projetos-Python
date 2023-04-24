@@ -1,4 +1,4 @@
-# F
+# Fu
 
 def adiciona_repr(cls):
     def meu_repr(self):
