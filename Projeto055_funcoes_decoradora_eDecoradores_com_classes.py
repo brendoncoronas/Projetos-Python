@@ -1,4 +1,4 @@
-# Funções decoradoras e decorado
+# Funções decoradoras e decorador
 
 def adiciona_repr(cls):
     def meu_repr(self):
