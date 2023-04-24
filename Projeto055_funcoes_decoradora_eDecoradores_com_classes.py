@@ -21,7 +21,7 @@ class Planeta:
         self.nome = nome
 
 brasil = Time('Brasil')
-portugal = Time('Portugal
+portugal = Time('Portugal'
 
 terra = Planeta('Terra
 marte = Planeta('Marte
