@@ -1,6 +1,6 @@
 
 
-def adiciona_repr(cls 
+def adiciona_repr(cls)
     def meu_repr(self
         class_name = self.__class__.__name__
         class_dict = self.__dict__
