@@ -1,4 +1,4 @@
-# Funções de
+# Funções dec
 
 def adiciona_repr(cls):
     def meu_repr(self):
