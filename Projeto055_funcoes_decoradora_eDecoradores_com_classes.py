@@ -20,7 +20,7 @@ class Planeta:
     def __init__(self, nome):
         self.nome = nome
 
-brasil = Time('Brasil'
+brasil = Time('Brasil')
 portugal = Time('Portugal
 
 terra = Planeta('Terra
