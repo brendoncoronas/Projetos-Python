@@ -29,5 +29,5 @@ marte = Planeta('Marte')
 print(brasil)
 print(portugal)
 
-print(terra
+print(terra)
 print(marte
