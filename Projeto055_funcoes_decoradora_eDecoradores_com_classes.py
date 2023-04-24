@@ -16,7 +16,7 @@ class Time:
 
 
 @adiciona_repr
-class Planeta
+class Planeta:
     def __init__(self, nome
         self.nome = nome
 
