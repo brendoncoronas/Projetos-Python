@@ -23,7 +23,7 @@ class Planeta:
 brasil = Time('Brasil')
 portugal = Time('Portugal')
 
-terra = Planeta('Terra
+terra = Planeta('Terra'
 marte = Planeta('Marte
 
 print(brasil
