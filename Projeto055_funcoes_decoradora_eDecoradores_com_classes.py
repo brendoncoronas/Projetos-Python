@@ -10,7 +10,7 @@ def adiciona_repr(cls):
     return cls   
 
 @adiciona_repr
-class Time
+class Time:
     def __init__(self, nome
         self.nome = nome
 
