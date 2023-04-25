@@ -6,7 +6,7 @@ class Meta(type):
         return cls
 
 
-class Pessoa(metaclass=Meta
+class Pessoa(metaclass=Meta)
     def __new__(cls, *args, **kwargs 
         print('meu new
         instancia = super().__new__(cls
