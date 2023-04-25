@@ -1,4 +1,4 @@
-class Meta(type)
+class Meta(type):
     def __new__(mcs, name, bases, dct
         print('metaclass new
         cls = super().__new__(mcs, name, bases, dct
