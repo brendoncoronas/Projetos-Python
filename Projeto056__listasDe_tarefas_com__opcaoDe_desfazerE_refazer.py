@@ -55,7 +55,7 @@ def adicionar(tarefa, tarefas):
 
 
 tarefas_refazer = []
-tarefas = [
+tarefas = []
 
 
 while True
