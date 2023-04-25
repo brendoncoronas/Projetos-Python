@@ -19,7 +19,7 @@ def listar(tarefas):
 def desfazer(tarefas, tarefas_refazer):
     print()
 
-    if not tarefas
+    if not tarefas:
         print('nenhuma tarefa para desfazer.')
         return
 
