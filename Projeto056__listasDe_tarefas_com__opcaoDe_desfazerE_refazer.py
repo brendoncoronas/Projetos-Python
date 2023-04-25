@@ -11,7 +11,7 @@ def listar(tarefas):
 
     print('tarefas')
     for tarefa in tarefas
-        print(f'\t{tarefa} # \t serve para dar um tab'
+        print(f'\t{tarefa} # \t serve para dar um tab')
 
     print()
 
