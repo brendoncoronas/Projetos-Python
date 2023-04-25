@@ -5,7 +5,7 @@ import os
 def listar(tarefas):
     print()
 
-    if not tarefas
+    if not tarefas:
         print('nenhuma tarefa para listar.
         return
 
