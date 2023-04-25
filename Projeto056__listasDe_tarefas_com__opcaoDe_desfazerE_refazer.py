@@ -70,7 +70,7 @@ while True
         listar(tarefas)
         continue
 
-    elif tarefa == 'refazer'
+    elif tarefa == 'refazer':
         refazer(tarefas, tarefas_refazer)
         listar(tarefas)
         continue
