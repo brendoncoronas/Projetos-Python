@@ -6,7 +6,7 @@ def listar(tarefas):
     print()
 
     if not tarefas:
-        print('nenhuma tarefa para listar.
+        print('nenhuma tarefa para listar.'
         return
 
     print('tarefas
