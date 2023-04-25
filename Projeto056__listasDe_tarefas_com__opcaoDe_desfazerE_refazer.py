@@ -9,7 +9,7 @@ def listar(tarefas):
         print('nenhuma tarefa para listar.')
         return
 
-    print('tarefas'
+    print('tarefas')
     for tarefa in tarefas
         print(f'\t{tarefa} # \t serve para dar um tab
 
