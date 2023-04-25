@@ -43,7 +43,7 @@ def refazer(tarefas, tarefas_refazer):
     print()
 
 
-def adicionar(tarefa, tarefas
+def adicionar(tarefa, tarefas)
     print(
     tarefa = tarefa.strip( # para garantir que nao tenha espaços
     if not tarefa
