@@ -13,7 +13,7 @@ def listar(tarefas):
     for tarefa in tarefas
         print(f'\t{tarefa} # \t serve para dar um tab
 
-    print(
+    print()
 
 
 def desfazer(tarefas, tarefas_refazer
