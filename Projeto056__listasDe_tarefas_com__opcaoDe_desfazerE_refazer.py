@@ -45,7 +45,7 @@ def refazer(tarefas, tarefas_refazer):
 
 def adicionar(tarefa, tarefas):
     print()
-    tarefa = tarefa.strip( # para garantir que nao tenha espaços
+    tarefa = tarefa.strip() # para garantir que nao tenha espaços
     if not tarefa
         print('voce nao digitou uma tarefa
         return
