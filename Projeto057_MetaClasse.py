@@ -17,4 +17,4 @@ class Pessoa(metaclass=Meta):
         self.nome = nome
 
 p1 = Pessoa('luiz') 
-print(p1.attr
+print(p1.attr)
