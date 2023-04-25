@@ -51,7 +51,7 @@ def adicionar(tarefa, tarefas):
         return
     print(f'{tarefa=} adicionada na lista de tarefas.')
     tarefas.append(tarefa)
-    print(
+    print()
 
 
 tarefas_refazer = [
