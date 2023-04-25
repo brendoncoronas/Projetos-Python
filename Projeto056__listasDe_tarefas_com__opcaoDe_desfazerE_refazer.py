@@ -1,4 +1,4 @@
-# faça um projeto que 
+# faça um projeto que import o modulo OS
 
 import os
 
