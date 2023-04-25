@@ -60,7 +60,7 @@ tarefas = []
 
 while True
     print('comandos: listar, desfazer e refazer.')
-    tarefa = input('digite uma tarefa ou comando:'
+    tarefa = input('digite uma tarefa ou comando:')
 
     if tarefa == 'listar
         listar(tarefas)
