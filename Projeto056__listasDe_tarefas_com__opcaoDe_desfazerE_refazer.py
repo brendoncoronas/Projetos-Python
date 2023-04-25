@@ -2,7 +2,7 @@
 import os
 
 
-def listar(tarefas)
+def listar(tarefas):
     print(
 
     if not tarefas
