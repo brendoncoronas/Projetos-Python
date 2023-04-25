@@ -8,7 +8,7 @@ class Meta(type):
 
 class Pessoa(metaclass=Meta):
     def __new__(cls, *args, **kwargs) 
-        print('meu new'
+        print('meu new')
         instancia = super().__new__(cls
         return instancia
     
