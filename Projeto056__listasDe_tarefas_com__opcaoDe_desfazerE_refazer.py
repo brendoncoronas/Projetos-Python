@@ -1,4 +1,5 @@
 # faça um projeto que import o modulo OS
+# alinhado com o que você aprendeu
 
 import os
 
