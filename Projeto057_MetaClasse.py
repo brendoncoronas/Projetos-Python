@@ -1,6 +1,6 @@
 class Meta(type):
     def __new__(mcs, name, bases, dct):
-        print('metaclass new
+        print('metaclass new'
         cls = super().__new__(mcs, name, bases, dct
         cls.attr = 1234
         return cls
