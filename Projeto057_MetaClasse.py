@@ -1,4 +1,4 @@
-# faça um projeto que mostre o uso claro de
+# faça um projeto que mostre o uso claro de Meta
 
 class Meta(type):
     def __new__(mcs, name, bases, dct):
