@@ -23,7 +23,7 @@ def desfazer(tarefas, tarefas_refazer):
         print('nenhuma tarefa para desfazer.')
         return
 
-    tarefa = tarefas.pop( # pegamos o ultimo item da lista e jogamos ele na var 'tarefas'
+    tarefa = tarefas.pop() # pegamos o ultimo item da lista e jogamos ele na var 'tarefas'
     print(f'{tarefa=} removida da lista.
     tarefas_refazer.append(tarefa
     print(
