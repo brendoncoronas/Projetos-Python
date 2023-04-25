@@ -40,7 +40,7 @@ def refazer(tarefas, tarefas_refazer):
     tarefa = tarefas_refazer.pop()
     print(f'{tarefa=} adicionada na lista de tarefas.')
     tarefas.append(tarefa)
-    print(
+    print()
 
 
 def adicionar(tarefa, tarefas
