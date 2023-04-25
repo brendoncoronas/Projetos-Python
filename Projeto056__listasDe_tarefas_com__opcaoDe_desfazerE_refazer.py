@@ -49,7 +49,7 @@ def adicionar(tarefa, tarefas):
     if not tarefa:
         print('voce nao digitou uma tarefa')
         return
-    print(f'{tarefa=} adicionada na lista de tarefas.'
+    print(f'{tarefa=} adicionada na lista de tarefas.')
     tarefas.append(tarefa)
     print(
 
