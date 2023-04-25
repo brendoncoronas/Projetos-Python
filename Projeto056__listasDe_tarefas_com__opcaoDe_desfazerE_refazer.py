@@ -38,7 +38,7 @@ def refazer(tarefas, tarefas_refazer):
 
     # pegamos o ultimo item da lista e jogamos ele na var 'tarefas'
     tarefa = tarefas_refazer.pop()
-    print(f'{tarefa=} adicionada na lista de tarefas.'
+    print(f'{tarefa=} adicionada na lista de tarefas.')
     tarefas.append(tarefa
     print(
 
