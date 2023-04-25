@@ -3,7 +3,7 @@ import os
 
 
 def listar(tarefas):
-    print(
+    print()
 
     if not tarefas
         print('nenhuma tarefa para listar.
