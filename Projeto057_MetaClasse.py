@@ -1,4 +1,4 @@
-# faça um projeto que 
+# faça um projeto que mostre
 
 class Meta(type):
     def __new__(mcs, name, bases, dct):
