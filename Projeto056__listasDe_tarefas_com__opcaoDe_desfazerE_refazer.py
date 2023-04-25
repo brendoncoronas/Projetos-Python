@@ -65,7 +65,7 @@ while True
     if tarefa == 'listar':
         listar(tarefas)
         continue
-    elif tarefa == 'desfazer
+    elif tarefa == 'desfazer'
         desfazer(tarefas, tarefas_refazer
         listar(tarefas
         continue
