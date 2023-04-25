@@ -16,5 +16,5 @@ class Pessoa(metaclass=Meta):
         print('meu init')
         self.nome = nome
 
-p1 = Pessoa('luiz 
+p1 = Pessoa('luiz' 
 print(p1.attr
