@@ -54,7 +54,7 @@ def adicionar(tarefa, tarefas):
     print()
 
 
-tarefas_refazer = [
+tarefas_refazer = []
 tarefas = [
 
 
