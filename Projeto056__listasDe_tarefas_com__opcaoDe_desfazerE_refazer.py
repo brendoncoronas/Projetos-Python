@@ -47,7 +47,7 @@ def adicionar(tarefa, tarefas):
     print()
     tarefa = tarefa.strip() # para garantir que nao tenha espaços
     if not tarefa:
-        print('voce nao digitou uma tarefa'
+        print('voce nao digitou uma tarefa')
         return
     print(f'{tarefa=} adicionada na lista de tarefas.
     tarefas.append(tarefa)
