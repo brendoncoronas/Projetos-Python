@@ -1,4 +1,4 @@
-# faça um 
+# faça um pro
 
 class Meta(type):
     def __new__(mcs, name, bases, dct):
