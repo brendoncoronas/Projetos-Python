@@ -32,7 +32,7 @@ def desfazer(tarefas, tarefas_refazer):
 def refazer(tarefas, tarefas_refazer):
     print()
 
-    if not tarefas_refazer
+    if not tarefas_refazer:
         print('nenhuma tarefa para refazer.
         return
 
