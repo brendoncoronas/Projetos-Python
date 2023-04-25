@@ -13,7 +13,7 @@ class Pessoa(metaclass=Meta):
         return instancia
     
     def __init__(self, nome):
-        print('meu init'
+        print('meu init')
         self.nome = nome
 
 p1 = Pessoa('luiz 
