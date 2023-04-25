@@ -29,7 +29,7 @@ def desfazer(tarefas, tarefas_refazer):
     print()
 
 
-def refazer(tarefas, tarefas_refazer
+def refazer(tarefas, tarefas_refazer)
     print(
 
     if not tarefas_refazer
