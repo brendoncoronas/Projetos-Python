@@ -33,7 +33,7 @@ def refazer(tarefas, tarefas_refazer):
     print()
 
     if not tarefas_refazer:
-        print('nenhuma tarefa para refazer.'
+        print('nenhuma tarefa para refazer.')
         return
 
     # pegamos o ultimo item da lista e jogamos ele na var 'tarefas'
