@@ -1,4 +1,4 @@
-# faça um projeto com o uso claro de N
+# faça um projeto com o uso claro de NA
 
 from typing import NamedTuple
 from collections import namedtuple
