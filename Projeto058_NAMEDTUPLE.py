@@ -1,4 +1,4 @@
-# faça um projeto com o uso claro de NAMEDT
+# faça um projeto com o uso claro de NAMEDTU
 
 from typing import NamedTuple
 from collections import namedtuple
