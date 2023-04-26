@@ -1,4 +1,4 @@
-# faça um pro
+# faça um proj
 
 from typing import NamedTuple
 from collections import namedtuple
