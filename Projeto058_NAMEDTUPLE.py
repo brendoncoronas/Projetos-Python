@@ -1,4 +1,4 @@
-# faça um projeto com o
+# faça um projeto com o u
 
 from typing import NamedTuple
 from collections import namedtuple
