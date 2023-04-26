@@ -1,4 +1,4 @@
-# faça 
+# faça u
 
 from typing import NamedTuple
 from collections import namedtuple
