@@ -1,4 +1,4 @@
-# faça um projeto com o uso c
+# faça um projeto com o uso cl
 
 from typing import NamedTuple
 from collections import namedtuple
