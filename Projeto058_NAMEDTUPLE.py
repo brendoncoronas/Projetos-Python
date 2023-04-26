@@ -8,4 +8,4 @@ as_espadas = Carta('A', 'espada')
 
 print(as_espadas)
 print(as_espadas.naipe)
-print(as_espadas.valor
+print(as_espadas.valor)
