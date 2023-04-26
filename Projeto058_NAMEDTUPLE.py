@@ -2,7 +2,7 @@
 from typing import NamedTuple
 from collections import namedtuple
 
-Carta = namedtuple('carta', ['valor', 'naipe # type: ignore
+Carta = namedtuple('carta', ['valor', 'naipe' # type: ignore
 
 as_espadas = Carta('A', 'espada
 
