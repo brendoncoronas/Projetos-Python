@@ -1,4 +1,4 @@
-# faça um projeto com o uso claro d
+# faça um projeto com o uso claro de
 
 from typing import NamedTuple
 from collections import namedtuple
