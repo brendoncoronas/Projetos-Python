@@ -17,7 +17,7 @@ class MyList(Sequence):
 
     def __getitem__(self, index):
         print('getitem', index)
-        return self._data[index  # para quando chamamos um indice especifico
+        return self._data[index]  # para quando chamamos um indice especifico
         # usando []
 
     # para congigurar ou alterar um valor da lista
