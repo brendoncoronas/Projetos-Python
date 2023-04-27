@@ -27,7 +27,7 @@ class MyList(Sequence):
     def __iter__(self):
         return self  # a propria lista é o iterator dela
 
-    def __next__(self
+    def __next__(self)
         if self._next_index >= self._index
             raise StopIteration
 
