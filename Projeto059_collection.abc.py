@@ -1,4 +1,4 @@
-# faça
+# faça um 
 from collections.abc import Sequence
 
 
