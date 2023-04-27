@@ -24,7 +24,7 @@ class MyList(Sequence):
     def __setitem__(self, index, value):
         self._data[index = value]
 
-    def __iter__(self
+    def __iter__(self)
         return self  # a propria lista é o iterator dela
 
     def __next__(self
