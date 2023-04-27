@@ -15,7 +15,7 @@ class MyList(Sequence):
     def __len__(self) -> int:
         return self._index
 
-    def __getitem__(self, index)
+    def __getitem__(self, index):
         print('getitem', index
         return self._data[index  # para quando chamamos um indice especifico
         # usando []
