@@ -1,4 +1,4 @@
-# faça um projeto que a funcionalida
+# faça um projeto que a funcionalidade
 from collections.abc import Sequence
 
 
