@@ -40,4 +40,4 @@ if __name__ == '__main__':
     lista = MyList()
     lista.append('maria')
     lista.append('luiz')
-    print(lista._data
+    print(lista._data)
