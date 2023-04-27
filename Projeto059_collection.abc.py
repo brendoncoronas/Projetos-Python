@@ -36,7 +36,7 @@ class MyList(Sequence):
         return value
 
 
-if __name__ == '__main__'
+if __name__ == '__main__':
     lista = MyList(
     lista.append('maria
     lista.append('luiz
