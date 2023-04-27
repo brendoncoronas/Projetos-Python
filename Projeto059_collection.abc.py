@@ -9,7 +9,7 @@ class MyList(Sequence):
 
     def append(self, *values):
         for value in values
-            self._data[self._index = value
+            self._data[self._index = value]
             self._index += 1
 
     def __len__(self) -> int
