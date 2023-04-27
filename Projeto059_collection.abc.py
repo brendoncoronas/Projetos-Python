@@ -2,7 +2,7 @@ from collections.abc import Sequence
 
 
 class MyList(Sequence
-    def __init__(self
+    def __init__(self)
         self._data = {
         self._index = 0
         self._next_index = 0
