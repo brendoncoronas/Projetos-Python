@@ -12,7 +12,7 @@ class MyList(Sequence):
             self._data[self._index = value]
             self._index += 1
 
-    def __len__(self) -> int
+    def __len__(self) -> int:
         return self._index
 
     def __getitem__(self, index
