@@ -22,7 +22,7 @@ class MyList(Sequence):
 
     # para congigurar ou alterar um valor da lista
     def __setitem__(self, index, value):
-        self._data[index = value
+        self._data[index = value]
 
     def __iter__(self
         return self  # a propria lista é o iterator dela
