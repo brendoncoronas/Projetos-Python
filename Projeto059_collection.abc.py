@@ -7,7 +7,7 @@ class MyList(Sequence):
         self._index = 0
         self._next_index = 0
 
-    def append(self, *values
+    def append(self, *values)
         for value in values
             self._data[self._index = value
             self._index += 1
