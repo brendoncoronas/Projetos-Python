@@ -37,7 +37,7 @@ class MyList(Sequence):
 
 
 if __name__ == '__main__':
-    lista = MyList(
+    lista = MyList()
     lista.append('maria
     lista.append('luiz
     print(lista._data
