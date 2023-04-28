@@ -1,4 +1,4 @@
-# faça um projeto que mostre a usabilida
+# faça um projeto que mostre a usabilidad
 
 from datetime import datetime
 
