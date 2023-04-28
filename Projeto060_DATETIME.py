@@ -1,4 +1,4 @@
-# faça um projeto que mos
+# faça um projeto que most
 
 from datetime import datetime
 
