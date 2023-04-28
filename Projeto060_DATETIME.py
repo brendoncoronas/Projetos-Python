@@ -1,4 +1,4 @@
-# faça um projeto que mostre a u
+# faça um projeto que mostre a us
 
 from datetime import datetime
 
