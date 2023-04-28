@@ -1,4 +1,4 @@
-# faça um projeto que mo
+# faça um projeto que mos
 
 from datetime import datetime
 
