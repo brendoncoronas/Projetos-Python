@@ -1,4 +1,4 @@
-# faça um projeto que mostr
+# faça um projeto que mostre
 
 from datetime import datetime
 
