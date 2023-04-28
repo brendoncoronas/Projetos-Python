@@ -1,4 +1,4 @@
-# faça u
+# faça um
 
 from datetime import datetime
 
