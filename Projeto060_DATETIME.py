@@ -1,4 +1,4 @@
-# faça um projeto q
+# faça um projeto qu
 
 from datetime import datetime
 
