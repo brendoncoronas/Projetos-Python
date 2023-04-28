@@ -1,4 +1,4 @@
-# faça um projeto que mostre a usab
+# faça um projeto que mostre a usabi
 
 from datetime import datetime
 
