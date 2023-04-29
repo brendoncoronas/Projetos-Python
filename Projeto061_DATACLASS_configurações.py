@@ -3,7 +3,7 @@ from dataclasses import asdict, astuple, dataclass
 
 @dataclass
 class Pessoa:
-    nome str
+    nome: str
     sobrenome str
 
 
