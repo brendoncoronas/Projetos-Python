@@ -1,4 +1,4 @@
-# faça u
+# faça um
 from dataclasses import asdict, astuple, dataclass
 
 
