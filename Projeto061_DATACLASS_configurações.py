@@ -4,7 +4,7 @@ from dataclasses import asdict, astuple, dataclass
 @dataclass
 class Pessoa:
     nome: str
-    sobrenome str
+    sobrenome: str
 
 
 if name = main
