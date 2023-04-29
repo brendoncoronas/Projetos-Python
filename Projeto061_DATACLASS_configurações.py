@@ -1,4 +1,4 @@
-# faça um proje
+# faça um projeto
 from dataclasses import asdict, astuple, dataclass
 
 
