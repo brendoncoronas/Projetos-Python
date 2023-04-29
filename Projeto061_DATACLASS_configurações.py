@@ -1,4 +1,4 @@
-# faça um projeto que uma confi
+# faça um projeto que uma configu
 from dataclasses import asdict, astuple, dataclass
 
 
