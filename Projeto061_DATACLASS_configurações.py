@@ -10,4 +10,4 @@ class Pessoa:
 if __name__ = __main__
     p1 = Pessoa('luiz', 'otavio')
     print(asdict(p1)  # podemos manipular normalmente como um dicionario ou
-    print(astuplep1)  # uma tupla
+    print(astuple(p1)  # uma tupla
