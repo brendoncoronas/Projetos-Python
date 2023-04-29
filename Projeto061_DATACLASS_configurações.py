@@ -1,4 +1,4 @@
-# faça um projeto que uma configuração de 
+# faça um projeto que uma configuração de DATA
 from dataclasses import asdict, astuple, dataclass
 
 
