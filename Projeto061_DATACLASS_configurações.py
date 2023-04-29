@@ -7,7 +7,7 @@ class Pessoa:
     sobrenome: str
 
 
-if _name = main
+if __name = main
     p1 = Pessoa'uiz, otavio
     printasdictp1  # podemos manipular normalmente como um dicionario ou
     printastuplep1  # uma tupla
