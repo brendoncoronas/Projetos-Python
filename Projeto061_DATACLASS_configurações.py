@@ -1,7 +1,7 @@
 from dataclasses import asdict, astuple, dataclass
 
 
-dataclass
+@dataclass
 class Pessoa
     nome str
     sobrenome str
