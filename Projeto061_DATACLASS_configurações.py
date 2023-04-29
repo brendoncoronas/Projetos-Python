@@ -7,7 +7,7 @@ class Pessoa:
     sobrenome: str
 
 
-if __name__ = __main__
+if __name__ = __main__:
     p1 = Pessoa('luiz', 'otavio')
     print(asdict(p1)  # podemos manipular normalmente como um dicionario ou
     print(astuple(p1)  # uma tupla
