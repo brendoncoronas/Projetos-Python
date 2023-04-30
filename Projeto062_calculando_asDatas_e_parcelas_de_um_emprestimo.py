@@ -28,7 +28,7 @@ numero_parcelas = len(data_parcelas)
 valor_parcela = valor_total / numero_parcelas
 
 for data in data_parcelas:
-    print(data.strftime('%d/%m/%Y'), f'R$ {valor_parcela:,.2f}'
+    print(data.strftime('%d/%m/%Y'), f'R$ {valor_parcela:,.2f}')
 
 print(
 print(
