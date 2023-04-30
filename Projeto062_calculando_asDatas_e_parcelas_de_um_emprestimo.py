@@ -30,7 +30,7 @@ valor_parcela = valor_total / numero_parcelas
 for data in data_parcelas:
     print(data.strftime('%d/%m/%Y'), f'R$ {valor_parcela:,.2f}')
 
-print(
+print()
 print(
     f'Você pegou R${valor_total:,.2f} para pagar'
     f'em {delta_anos.years} anos'
