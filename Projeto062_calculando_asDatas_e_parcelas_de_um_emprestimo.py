@@ -13,7 +13,7 @@ from dateutil.relativedelta import relativedelta
 
 # podemos separar numeros muito grandes por underline, o python permite
 valor_total = 1_000_000
-data_emprestimo = datetime(2020, 12, 20
+data_emprestimo = datetime(2020, 12, 20)
 delta_anos = relativedelta(years=5
 data_final = data_emprestimo + delta_anos
 
