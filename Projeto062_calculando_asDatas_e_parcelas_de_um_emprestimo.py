@@ -18,7 +18,7 @@ delta_anos = relativedelta(years=5)
 data_final = data_emprestimo + delta_anos
 
 # atenção no S
-data_parcelas = [
+data_parcelas = []
 data_parcela = data_emprestimo
 while data_parcela < data_final
     data_parcelas.append(data_parcela
