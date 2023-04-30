@@ -1,4 +1,4 @@
-# faça
+# faça u
 
 
 # maria pegou um emprestimo de 1.000.000
