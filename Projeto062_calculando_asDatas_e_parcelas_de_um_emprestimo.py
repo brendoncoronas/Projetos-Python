@@ -22,7 +22,7 @@ data_parcelas = []
 data_parcela = data_emprestimo
 while data_parcela < data_final:
     data_parcelas.append(data_parcela)
-    data_parcela += relativedelta(months=1
+    data_parcela += relativedelta(months=1)
 
 numero_parcelas = len(data_parcelas
 valor_parcela = valor_total / numero_parcelas
