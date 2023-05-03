@@ -19,7 +19,7 @@ shutil.rmtree(CAMINHO_DESCOMPACTADO, ignore_errors=True)
 # raise Exception()
 
 # Cria o diretório para a aula
-CAMINHO_ZIP_DIR.mkdir(exist_ok=True
+CAMINHO_ZIP_DIR.mkdir(exist_ok=True)
 
 
 def criar_arquivos(qtd: int, zip_dir: Path
