@@ -1,4 +1,4 @@
-# crie um projeto que mostre
+# crie um projeto que mostre os 
 
 import calendar
 
