@@ -22,7 +22,7 @@ shutil.rmtree(CAMINHO_DESCOMPACTADO, ignore_errors=True)
 CAMINHO_ZIP_DIR.mkdir(exist_ok=True)
 
 
-def criar_arquivos(qtd: int, zip_dir: Path
+def criar_arquivos(qtd: int, zip_dir: Path:
     for i in range(qtd):
         texto = 'arquivo_%s' % i
         with open(zip_dir / f'{texto}.txt', 'w') as arquivo:
