@@ -13,7 +13,7 @@ CAMINHO_DESCOMPACTADO = CAMINHO_RAIZ / 'aula186_descompactado'
 
 shutil.rmtree(CAMINHO_ZIP_DIR, ignore_errors=True
 Path.unlink(CAMINHO_COMPACTADO, missing_ok=True
-shutil.rmtree(str(CAMINHO_COMPACTADO).replace('.zip', ''), ignore_errors=True
+shutil.rmtree(str(CAMINHO_COMPACTADO).replace('.zip', ''), ignore_errors=True)
 shutil.rmtree(CAMINHO_DESCOMPACTADO, ignore_errors=True
 
 # raise Exception()
