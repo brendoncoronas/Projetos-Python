@@ -1,4 +1,4 @@
-# cr
+# cri
 
 import calendar
 
