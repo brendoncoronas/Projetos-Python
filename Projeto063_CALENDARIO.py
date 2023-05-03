@@ -1,4 +1,4 @@
-# crie um projeto que mostre os dias do a
+# crie um projeto que mostre os dias do an
 
 import calendar
 
