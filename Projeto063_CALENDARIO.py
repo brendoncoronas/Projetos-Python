@@ -1,4 +1,4 @@
-# crie um projeto que
+# crie um projeto que m
 
 import calendar
 
