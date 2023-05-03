@@ -7,7 +7,7 @@ from zipfile import ZipFile
 
 # Caminhos
 CAMINHO_RAIZ = Path(__file__).parent
-CAMINHO_ZIP_DIR = CAMINHO_RAIZ / aula_186_diretorio_zip'
+CAMINHO_ZIP_DIR = CAMINHO_RAIZ / 'aula_186_diretorio_zip'
 CAMINHO_COMPACTADO = CAMINHO_RAIZ / aula186_compactado.zip
 CAMINHO_DESCOMPACTADO = CAMINHO_RAIZ / aula186_descompactado
 
