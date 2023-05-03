@@ -1,4 +1,4 @@
-# crie u
+# crie um
 
 import calendar
 
