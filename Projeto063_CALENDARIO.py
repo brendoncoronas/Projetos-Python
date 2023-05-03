@@ -1,4 +1,4 @@
-# crie um projeto que mostre os dia
+# crie um projeto que mostre os dias
 
 import calendar
 
