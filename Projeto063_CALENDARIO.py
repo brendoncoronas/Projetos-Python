@@ -1,4 +1,4 @@
-# crie um proje
+# crie um projet
 
 import calendar
 
