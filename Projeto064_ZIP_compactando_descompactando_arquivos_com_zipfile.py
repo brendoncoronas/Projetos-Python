@@ -1,4 +1,4 @@
-# faça u
+# faça um
 
 import os
 import shutil
