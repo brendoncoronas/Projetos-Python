@@ -1,4 +1,4 @@
-# faça um projeto com zipf
+# faça um projeto com zipfi
 
 import os
 import shutil
