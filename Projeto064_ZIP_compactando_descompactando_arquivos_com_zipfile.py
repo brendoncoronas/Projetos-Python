@@ -1,4 +1,4 @@
-# faça um projeto com z
+# faça um projeto com zi
 
 import os
 import shutil
