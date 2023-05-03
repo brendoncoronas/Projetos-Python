@@ -5,7 +5,7 @@ print(calendar.calendar(2023))
 print(calendar.month(2023, 12))
 
 print(calendar.monthrange(2022, 12))
-print(list(enumerate(calendar.day_name
+print(list(enumerate(calendar.day_name)
 
 for week in calendar.monthcalendar(2023, 12
     for day in week
