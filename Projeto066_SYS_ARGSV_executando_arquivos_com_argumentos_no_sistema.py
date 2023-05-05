@@ -1,4 +1,4 @@
-#ex
+#exe
 
 import sys
 
