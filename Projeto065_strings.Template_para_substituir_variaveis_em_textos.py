@@ -30,5 +30,5 @@ class MyTemplate(string.Template):
 
 with open(CAMINHO_ARQUIVO, 'r') as arquivo:
     texto = arquivo.read(
-    template = MyTemplate(texto
+    template = MyTemplate(texto)
     print(template.substitute(dados
