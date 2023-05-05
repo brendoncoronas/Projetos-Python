@@ -28,7 +28,7 @@ class MyTemplate(string.Template):
     delimiter = '%'
 
 
-with open(CAMINHO_ARQUIVO, 'r') as arquivo
+with open(CAMINHO_ARQUIVO, 'r') as arquivo:
     texto = arquivo.read(
     template = MyTemplate(texto
     print(template.substitute(dados
