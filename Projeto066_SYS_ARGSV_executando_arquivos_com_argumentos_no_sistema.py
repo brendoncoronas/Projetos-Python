@@ -1,4 +1,4 @@
-import
+import s
 
 argumentos = sys.argv
 qtd_argumentos = len(argumentos)
