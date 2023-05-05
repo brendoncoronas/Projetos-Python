@@ -24,7 +24,7 @@ dados = dict(
 )
 
 
-class MyTemplate(string.Template
+class MyTemplate(string.Template)
     delimiter = '%'
 
 
