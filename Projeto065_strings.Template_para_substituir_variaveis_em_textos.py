@@ -10,7 +10,7 @@ locale.setlocale(locale.LC_ALL, '')
 
 
 def converte_para_brl(numero: float) -> str:
-    brl = 'R$ ' + locale.currency(numero, symbol=False, grouping=True
+    brl = 'R$ ' + locale.currency(numero, symbol=False, grouping=True)
     return brl
 
 
