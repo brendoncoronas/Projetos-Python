@@ -9,6 +9,6 @@ else:
     try:
         print(f'voce passou o argumento {argumentos[0]}')
 
-    except IndexError
+    except IndexError:
         print('faltam argumentos
 
