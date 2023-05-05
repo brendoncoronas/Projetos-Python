@@ -1,4 +1,4 @@
-#execute arqu
+#execute arqui
 
 import sys
 
