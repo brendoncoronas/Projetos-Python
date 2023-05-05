@@ -1,4 +1,4 @@
-#execute arquivo usando sy
+#execute arquivo usando sys
 
 import sys
 
