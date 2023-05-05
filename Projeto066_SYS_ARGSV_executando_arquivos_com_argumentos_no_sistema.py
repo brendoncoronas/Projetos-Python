@@ -1,4 +1,4 @@
-#execute arqui
+#execute arquiv
 
 import sys
 
