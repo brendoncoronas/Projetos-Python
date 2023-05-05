@@ -1,4 +1,4 @@
-#execute arq
+#execute arqu
 
 import sys
 
