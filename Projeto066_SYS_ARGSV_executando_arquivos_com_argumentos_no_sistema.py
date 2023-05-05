@@ -1,4 +1,4 @@
-#execute arquiv
+#execute arquivo
 
 import sys
 
