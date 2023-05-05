@@ -1,4 +1,4 @@
-#execute arquivo us
+#execute arquivo usa
 
 import sys
 
