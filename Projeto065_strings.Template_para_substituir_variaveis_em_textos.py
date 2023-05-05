@@ -6,7 +6,7 @@ from pathlib import Path
 CAMINHO_ARQUIVO = Path(__file__).parent / \
     'aula174_String.Template_para_substituir_variaveis_em_textos'
 
-locale.setlocale(locale.LC_ALL, ''
+locale.setlocale(locale.LC_ALL, '')
 
 
 def converte_para_brl(numero: float) -> str
