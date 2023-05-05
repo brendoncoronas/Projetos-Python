@@ -4,7 +4,7 @@ from datetime import datetime
 from pathlib import Path
 
 CAMINHO_ARQUIVO = Path(__file__).parent / \
-    'aula174_String.Template_para_substituir_variaveis_em_textos
+    'aula174_String.Template_para_substituir_variaveis_em_textos'
 
 locale.setlocale(locale.LC_ALL, ''
 
