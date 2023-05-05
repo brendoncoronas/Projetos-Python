@@ -1,4 +1,4 @@
-#execut
+#execute
 
 import sys
 
