@@ -1,7 +1,7 @@
 
 
 argumentos = sys.argv
-qtd_argumentos = len(argumentos
+qtd_argumentos = len(argumentos)
 
 if qtd_argumentos <= 1:
     print('voce nao passou argumentos
