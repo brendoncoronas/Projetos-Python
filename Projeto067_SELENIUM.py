@@ -1,4 +1,4 @@
-# faça um projeto que mostre
+# faça um projeto que mostre a 
 
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
