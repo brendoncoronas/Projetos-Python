@@ -8,7 +8,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 
 
 # Caminho para a raiz do projeto
-ROOT_FOLDER = Path(_file__).parent
+ROOT_FOLDER = Path(__file__).parent
 # Caminho para a pasta onde o chromedriver está
 CHROME_DRIVER_PATH = ROOT_FOLDER / 'drivers' / 'chromedriver'
 
