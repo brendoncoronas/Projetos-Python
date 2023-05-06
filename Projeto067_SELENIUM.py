@@ -1,4 +1,4 @@
-# faça um projeto que mostre a usabilidade de SELEN
+# faça um projeto que mostre a usabilidade de SELENI
 
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
