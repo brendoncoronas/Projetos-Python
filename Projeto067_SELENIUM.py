@@ -1,4 +1,4 @@
-# faça um p
+# faça um pr
 
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
