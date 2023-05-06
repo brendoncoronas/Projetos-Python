@@ -1,4 +1,4 @@
-# faça um projeto que mo
+# faça um projeto que mos
 
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
