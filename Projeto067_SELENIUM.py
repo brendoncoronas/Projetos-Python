@@ -33,7 +33,7 @@ def make_chrome_browser(*options: str) -> webdriver.Chrome:
     return browser
 
 
-if _name_ == '_main_':
+if __name_ == '_main_':
     TIME_TO_WAIT = 10
 
     # Example
