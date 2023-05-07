@@ -1,4 +1,4 @@
-# faça u
+# faça um
 
 from threading import Thread
 from time import sleep
