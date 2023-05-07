@@ -1,4 +1,4 @@
-# faça um projeto com uso claro de THRE
+# faça um projeto com uso claro de THREA
 
 from threading import Thread
 from time import sleep
