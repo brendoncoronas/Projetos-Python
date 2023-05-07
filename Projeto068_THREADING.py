@@ -11,7 +11,7 @@ class MeuThread(Thread):
 
     def run(self):  # usamos a assinatura da funcao de Thread
         sleep(self.tempo)
-        print(self.texto
+        print(self.texto)
 
 
 t1 = MeuThread('Thread 1', 2
