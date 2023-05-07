@@ -1,4 +1,4 @@
-# faça um projeto com uso cl
+# faça um projeto com uso cla
 
 from threading import Thread
 from time import sleep
