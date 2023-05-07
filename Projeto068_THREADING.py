@@ -27,4 +27,4 @@ t3.start()
 
 for i in range(20
     print(1)
-    sleep(1
+    sleep(1)
