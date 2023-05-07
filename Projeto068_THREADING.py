@@ -22,7 +22,7 @@ t2 = MeuThread('Thread 2', 3)
 t2.start()
 
 
-t3 = MeuThread('Thread 3', 5
+t3 = MeuThread('Thread 3', 5)
 t3.start(
 
 for i in range(20
