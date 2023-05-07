@@ -9,7 +9,7 @@ class MeuThread(Thread):
 
         super().__init__()  # estamos inicializando o init da Thread
 
-    def run(self  # usamos a assinatura da funcao de Thread
+    def run(self)  # usamos a assinatura da funcao de Thread
         sleep(self.tempo
         print(self.texto
 
