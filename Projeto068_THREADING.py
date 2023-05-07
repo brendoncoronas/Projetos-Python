@@ -1,4 +1,4 @@
-# faça um projeto com uso claro de THREAD
+# faça um projeto com uso claro de THREADI
 
 from threading import Thread
 from time import sleep
