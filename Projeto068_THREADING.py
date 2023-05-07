@@ -26,5 +26,5 @@ t3 = MeuThread('Thread 3', 5)
 t3.start()
 
 for i in range(20
-    print(1
+    print(1)
     sleep(1
