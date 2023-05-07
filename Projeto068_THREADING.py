@@ -18,7 +18,7 @@ t1 = MeuThread('Thread 1', 2)
 t1.start()
 
 
-t2 = MeuThread('Thread 2', 3
+t2 = MeuThread('Thread 2', 3)
 t2.start(
 
 
