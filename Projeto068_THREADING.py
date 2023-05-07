@@ -1,4 +1,4 @@
-# faça um p
+# faça um pr
 
 from threading import Thread
 from time import sleep
