@@ -1,4 +1,4 @@
-# faça um projeto com uso claro
+# faça um projeto com uso claro d
 
 from threading import Thread
 from time import sleep
