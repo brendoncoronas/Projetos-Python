@@ -2,7 +2,7 @@ from threading import Thread
 from time import sleep
 
 
-class MeuThread(Thread
+class MeuThread(Thread)
     def __init__(self, texto, tempo
         self.texto = texto
         self.tempo = tempo
