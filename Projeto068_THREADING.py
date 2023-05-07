@@ -1,4 +1,4 @@
-# faça um projeto
+# faça um projeto c
 
 from threading import Thread
 from time import sleep
