@@ -14,7 +14,7 @@ class MeuThread(Thread):
         print(self.texto)
 
 
-t1 = MeuThread('Thread 1', 2
+t1 = MeuThread('Thread 1', 2)
 t1.start(
 
 
