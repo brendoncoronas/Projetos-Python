@@ -1,4 +1,4 @@
-# faça um projeto 
+# faça um projeto que 
 
 from pathlib import Path
 
