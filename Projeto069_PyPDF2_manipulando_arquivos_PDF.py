@@ -1,4 +1,4 @@
-# faça um projeto que utilize 
+# faça um projeto que utilize PyPDF2
 
 from pathlib import Path
 
