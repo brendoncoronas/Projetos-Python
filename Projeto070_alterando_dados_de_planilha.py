@@ -8,7 +8,7 @@ ROOT_FOLDER = Path(__file__).parent
 WORKBOOK_PATH = ROOT_FOLDER / 'workbook.xlsx'
 
 # Carregando um arquivo do excel
-workbook: Workbook = load_workbook(WORKBOOK_PATH
+workbook: Workbook = load_workbook(WORKBOOK_PATH)
 
 # Nome para a planilha
 sheet_name = 'Minha planilha
