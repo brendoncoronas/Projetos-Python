@@ -8,7 +8,7 @@ PASTA_NOVA = PASTA_RAIZ / 'arquivos_novos'
 
 RELATORIO_BACEN = PASTA_ORIGINAIS / 'R20220527.pdf'
 
-PASTA_NOVA.mkdir(exist_ok=True
+PASTA_NOVA.mkdir(exist_ok=True)
 
 reader = PdfReader(RELATORIO_BACEN
 
