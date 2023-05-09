@@ -5,7 +5,7 @@ from openpyxl.cell import Cell
 from openpyxl.worksheet.worksheet import Worksheet
 
 ROOT_FOLDER = Path(__file__).parent
-WORKBOOK_PATH = ROOT_FOLDER / 'workbook.xlsx
+WORKBOOK_PATH = ROOT_FOLDER / 'workbook.xlsx'
 
 # Carregando um arquivo do excel
 workbook: Workbook = load_workbook(WORKBOOK_PATH
