@@ -16,7 +16,7 @@ sheet_name = 'Minha planilha'
 # Selecionou a planilha
 worksheet: Worksheet = workbook[sheet_name]
 
-row: tuple[Cell
+row: tuple[Cell]
 for row in worksheet.iter_rows(min_row=2
     for cell in row
         print(cell.value, end='\t
