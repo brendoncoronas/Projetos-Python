@@ -23,7 +23,7 @@ for row in worksheet.iter_rows(min_row=2):
 
         if cell.value == 'Maria':
             worksheet.cell(cell.row, 2, 23)
-    print(
+    print()
 
 # worksheet['B3'].value = 14
 
