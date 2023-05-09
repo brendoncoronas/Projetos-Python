@@ -15,7 +15,7 @@ reader = PdfReader(RELATORIO_BACEN)
 print(len(reader.pages))
 for page in reader.pages:
     print(page)
-    print(
+    print()
 
 page0 = reader.pages[0
 imagem0 = page0.images[0
