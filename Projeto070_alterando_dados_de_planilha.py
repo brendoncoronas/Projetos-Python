@@ -1,4 +1,4 @@
-# faça um projeto que manipule uma plani
+# faça um projeto que manipule uma planil
 
 from pathlib import Path
 
