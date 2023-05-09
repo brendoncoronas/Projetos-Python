@@ -1,4 +1,4 @@
-# faça um projeto que man
+# faça um projeto que mani
 
 from pathlib import Path
 
