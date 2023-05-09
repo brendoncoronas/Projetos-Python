@@ -1,4 +1,4 @@
-# faça um projeto que manipule uma plan
+# faça um projeto que manipule uma plani
 
 from pathlib import Path
 
