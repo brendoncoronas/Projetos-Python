@@ -14,7 +14,7 @@ workbook: Workbook = load_workbook(WORKBOOK_PATH)
 sheet_name = 'Minha planilha'
 
 # Selecionou a planilha
-worksheet: Worksheet = workbook[sheet_name
+worksheet: Worksheet = workbook[sheet_name]
 
 row: tuple[Cell
 for row in worksheet.iter_rows(min_row=2
