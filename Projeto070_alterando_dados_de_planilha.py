@@ -11,7 +11,7 @@ WORKBOOK_PATH = ROOT_FOLDER / 'workbook.xlsx'
 workbook: Workbook = load_workbook(WORKBOOK_PATH)
 
 # Nome para a planilha
-sheet_name = 'Minha planilha
+sheet_name = 'Minha planilha'
 
 # Selecionou a planilha
 worksheet: Worksheet = workbook[sheet_name
