@@ -13,7 +13,7 @@ PASTA_NOVA.mkdir(exist_ok=True)
 reader = PdfReader(RELATORIO_BACEN)
 
 print(len(reader.pages)
-for page in reader.pages
+for page in reader.pages:
     print(page
     print(
 
