@@ -1,4 +1,4 @@
-# faça um projeto que manipule uma pla
+# faça um projeto que manipule uma plan
 
 from pathlib import Path
 
