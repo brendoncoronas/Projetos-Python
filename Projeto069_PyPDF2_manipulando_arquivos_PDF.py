@@ -17,7 +17,7 @@ for page in reader.pages:
     print(page)
     print()
 
-page0 = reader.pages[0
+page0 = reader.pages[0]
 imagem0 = page0.images[0
 
 # print(page0.extract_text())
