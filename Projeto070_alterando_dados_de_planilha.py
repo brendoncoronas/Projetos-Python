@@ -1,4 +1,4 @@
-# faça um projeto que manipule uma p
+# faça um projeto que manipule uma pl
 
 from pathlib import Path
 
