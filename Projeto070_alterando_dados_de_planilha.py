@@ -1,4 +1,4 @@
-# faça um pr
+# faça um pro
 
 from pathlib import Path
 
