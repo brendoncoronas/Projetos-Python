@@ -1,4 +1,4 @@
-# faça um projeto com PILL
+# faça um projeto com PILLO
 
 from pathlib import Path
 
