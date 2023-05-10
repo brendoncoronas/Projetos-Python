@@ -1,4 +1,4 @@
-# faça um projeto com
+# faça um projeto com P
 
 from pathlib import Path
 
