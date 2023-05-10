@@ -8,7 +8,7 @@ NEW_IMAGE = ROOT_FOLDER / ' new.JPG'
 
 pil_image = Image.open(ORIGINAL
 width, height = pil_image.size
-exif = pil_image.info['exif'
+exif = pil_image.info['exif']
 
 # width     new_width
 # height    ??
