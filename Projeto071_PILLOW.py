@@ -15,7 +15,7 @@ exif = pil_image.info['exif']
 new_width = 640
 new_height = round(height * new_width / width)
 
-new_image = pil_image.resize(size=(new_width, new_height
+new_image = pil_image.resize(size=(new_width, new_height)
 new_image.save(
     NEW_IMAGE,
     optimize=True,
