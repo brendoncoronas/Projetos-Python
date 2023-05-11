@@ -15,7 +15,7 @@ botao2 = QPushButton('botao 2')
 botao2.setStyleSheet('font-size: 20px;')
 
 
-central_widget = QWidget(
+central_widget = QWidget()
 layout = QVBoxLayout(
 central_widget.setLayout(layout
 
