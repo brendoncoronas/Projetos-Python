@@ -25,4 +25,4 @@ central_widget.show()  # central_widget entre na hierarquia e mostre sua janela
 
 # o loop da aplicação:
 
-app.exec(
+app.exec()
