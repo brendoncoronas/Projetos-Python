@@ -1,4 +1,4 @@
-# faça um projeto com PyS
+# faça um projeto com PySi
 import sys
 
 # QApplication - é responsavel por gerenciar a nossa aplicação e tbm
