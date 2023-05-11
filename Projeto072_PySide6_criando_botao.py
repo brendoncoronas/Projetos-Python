@@ -1,4 +1,4 @@
-# faça um projet
+# faça um projeto
 import sys
 
 # QApplication - é responsavel por gerenciar a nossa aplicação e tbm
