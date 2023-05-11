@@ -11,7 +11,7 @@ botao = QPushButton('texto do botao')
 botao.setStyleSheet('font-size: 20px;')
 botao.show()  # adiciona o widget na hierarquia e exibe a janela
 
-botao2 = QPushButton('botao 2
+botao2 = QPushButton('botao 2'
 botao2.setStyleSheet('font-size: 20px;
 
 
