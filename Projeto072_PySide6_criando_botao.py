@@ -5,7 +5,7 @@ import sys
 # e tbm nao exibe nada na tela
 from PySide6.QtWidgets import QApplication, QPushButton, QVBoxLayout, QWidget
 
-app = QApplication(sys.argv  # type: ignore
+app = QApplication(sys.argv)  # type: ignore
 
 botao = QPushButton('texto do botao
 botao.setStyleSheet('font-size: 20px;
