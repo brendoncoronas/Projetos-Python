@@ -17,7 +17,7 @@ botao2.setStyleSheet('font-size: 20px;')
 
 central_widget = QWidget()
 layout = QVBoxLayout()
-central_widget.setLayout(layout
+central_widget.setLayout(layout)
 
 layout.addWidget(botao
 
