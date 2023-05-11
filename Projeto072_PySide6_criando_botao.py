@@ -21,7 +21,7 @@ central_widget.setLayout(layout)
 
 layout.addWidget(botao)
 
-central_widget.show(  # central_widget entre na hierarquia e mostre sua janela
+central_widget.show()  # central_widget entre na hierarquia e mostre sua janela
 
 # o loop da aplicação:
 
