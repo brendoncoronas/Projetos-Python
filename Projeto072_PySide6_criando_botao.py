@@ -1,4 +1,4 @@
-# faça um projeto com PySide6
+# faça um projeto com PySide6 m
 import sys
 
 # QApplication - é responsavel por gerenciar a nossa aplicação e tbm
