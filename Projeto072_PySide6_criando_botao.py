@@ -19,7 +19,7 @@ central_widget = QWidget()
 layout = QVBoxLayout()
 central_widget.setLayout(layout)
 
-layout.addWidget(botao
+layout.addWidget(botao)
 
 central_widget.show(  # central_widget entre na hierarquia e mostre sua janela
 
