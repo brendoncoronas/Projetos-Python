@@ -16,7 +16,7 @@ botao2 = QPushButton('Botão 2')
 botao2.setStyleSheet('font-size: 40px;')
 
 botao3 = QPushButton('Botão 3')
-botao3.setStyleSheet('font-size: 40px;
+botao3.setStyleSheet('font-size: 40px;'
 
 layout = QGridLayout(
 central_widget.setLayout(layout
