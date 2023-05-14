@@ -26,7 +26,7 @@ layout.addWidget(botao2, 1, 2, 1, 1)
 layout.addWidget(botao3, 3, 1, 1, 2)
 
 
-def slot_example(status_bar
+def slot_example(status_bar)
     status_bar.showMessage('O meu slot foi executado
 
 
