@@ -1,7 +1,7 @@
 import sys
 
 from PySide6.QtWidgets import (QApplication, QGridLayout, QMainWindow,
-                               QPushButton, QWidget
+                               QPushButton, QWidget)
 
 app = QApplication(sys.argv  # type: ignore
 window = QMainWindow(
