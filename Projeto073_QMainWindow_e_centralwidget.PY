@@ -43,7 +43,7 @@ primeira_acao.triggered.connect()  # type:ignore
 )
 
 
-window.show(
+window.show()
 
 # O loop da aplicação:
 
