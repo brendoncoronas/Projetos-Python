@@ -10,7 +10,7 @@ window.setCentralWidget(central_widget)
 window.setWindowTitle('Minha janela bonita')
 
 botao1 = QPushButton('Texto do botão')
-botao1.setStyleSheet('font-size: 80px;'
+botao1.setStyleSheet('font-size: 80px;')
 
 botao2 = QPushButton('Botão 2
 botao2.setStyleSheet('font-size: 40px;
