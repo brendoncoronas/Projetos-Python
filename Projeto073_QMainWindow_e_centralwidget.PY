@@ -47,4 +47,4 @@ window.show()
 
 # O loop da aplicação:
 
-app.exec(  # type: ignore
+app.exec()  # type: ignore
