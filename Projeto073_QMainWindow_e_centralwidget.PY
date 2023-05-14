@@ -5,7 +5,7 @@ from PySide6.QtWidgets import (QApplication, QGridLayout, QMainWindow,
 
 app = QApplication(sys.argv)  # type: ignore
 window = QMainWindow()
-central_widget = QWidget(
+central_widget = QWidget()
 window.setCentralWidget(central_widget
 window.setWindowTitle('Minha janela bonita
 
