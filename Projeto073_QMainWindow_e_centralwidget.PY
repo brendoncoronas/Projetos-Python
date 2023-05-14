@@ -31,7 +31,7 @@ def slot_example(status_bar):
 
 
 # statusBar
-status_bar = window.statusBar(
+status_bar = window.statusBar()
 status_bar.showMessage('Mostrar mensagem na barra
 
 # menuBar
