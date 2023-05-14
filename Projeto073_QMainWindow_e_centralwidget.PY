@@ -7,7 +7,7 @@ app = QApplication(sys.argv)  # type: ignore
 window = QMainWindow()
 central_widget = QWidget()
 window.setCentralWidget(central_widget)
-window.setWindowTitle('Minha janela bonita
+window.setWindowTitle('Minha janela bonita'
 
 botao1 = QPushButton('Texto do botão
 botao1.setStyleSheet('font-size: 80px;
