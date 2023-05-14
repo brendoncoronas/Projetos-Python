@@ -39,7 +39,7 @@ menu = window.menuBar()
 primeiro_menu = menu.addMenu('Primeiro menu')
 primeira_acao = primeiro_menu.addAction('Primeira ação')
 primeira_acao.triggered.connect()  # type:ignore
-    lambda: slot_example(status_bar
+    lambda: slot_example(status_bar)
 )
 
 
