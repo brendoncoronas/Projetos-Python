@@ -36,7 +36,7 @@ status_bar.showMessage('Mostrar mensagem na barra')
 
 # menuBar
 menu = window.menuBar()
-primeiro_menu = menu.addMenu('Primeiro menu'
+primeiro_menu = menu.addMenu('Primeiro menu')
 primeira_acao = primeiro_menu.addAction('Primeira ação
 primeira_acao.triggered.connect(  # type:ignore
     lambda: slot_example(status_bar
