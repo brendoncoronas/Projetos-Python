@@ -18,7 +18,7 @@ class MyWindow(QMainWindow):
         self.botao1 = self.make_button('Texto do botão')
         self.botao1.clicked.connect(self.segunda_acao_marcada)  # type: ignore
 
-        self.botao2 = self.make_button('Botão 2'
+        self.botao2 = self.make_button('Botão 2')
 
         self.botao3 = self.make_button('Terceiro
 
