@@ -2,7 +2,7 @@ import sys
 
 from PySide6.QtCore import Slot
 from PySide6.QtWidgets import (QApplication, QGridLayout, QMainWindow,
-                               QPushButton, QWidget
+                               QPushButton, QWidget)
 
 
 class MyWindow(QMainWindow
