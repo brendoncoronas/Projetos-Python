@@ -27,7 +27,7 @@ class MyWindow(QMainWindow):
 
         self.grid_layout.addWidget(self.botao1, 1, 1, 1, 1)
         self.grid_layout.addWidget(self.botao2, 1, 2, 1, 1)
-        self.grid_layout.addWidget(self.botao3, 3, 1, 1, 2
+        self.grid_layout.addWidget(self.botao3, 3, 1, 1, 2)
 
         # statusBar
         self.status_bar = self.statusBar(
