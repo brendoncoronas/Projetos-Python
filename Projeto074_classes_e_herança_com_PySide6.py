@@ -51,7 +51,7 @@ class MyWindow(QMainWindow):
     def muda_mensagem_da_status_bar(self):
         self.status_bar.showMessage('O meu slot foi executado')
 
-    @Slot(  # type: ignore
+    @Slot()  # type: ignore
     def segunda_acao_marcada(self
         print('Está marcado?', self.segunda_action.isChecked(
 
