@@ -31,7 +31,7 @@ class MyWindow(QMainWindow):
 
         # statusBar
         self.status_bar = self.statusBar()
-        self.status_bar.showMessage('Mostrar mensagem na barra
+        self.status_bar.showMessage('Mostrar mensagem na barra'
 
         # menuBar
         self.menu = self.menuBar(
