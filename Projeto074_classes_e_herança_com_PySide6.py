@@ -34,7 +34,7 @@ class MyWindow(QMainWindow):
         self.status_bar.showMessage('Mostrar mensagem na barra')
 
         # menuBar
-        self.menu = self.menuBar(
+        self.menu = self.menuBar()
         self.primeiro_menu = self.menu.addMenu('Primeiro menu'
         self.primeira_acao = self.primeiro_menu.addAction('Primeira ação
         self.primeira_acao.triggered.connect(  # type:ignore
