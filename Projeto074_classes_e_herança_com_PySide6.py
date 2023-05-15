@@ -57,7 +57,7 @@ class MyWindow(QMainWindow):
 
     def make_button(self, text):
         btn = QPushButton(text)
-        btn.setStyleSheet('font-size: 80px;'
+        btn.setStyleSheet('font-size: 80px;')
         return btn
 
 
