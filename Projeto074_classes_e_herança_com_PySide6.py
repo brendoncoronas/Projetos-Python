@@ -53,7 +53,7 @@ class MyWindow(QMainWindow):
 
     @Slot()  # type: ignore
     def segunda_acao_marcada(self)
-        print('Está marcado?', self.segunda_action.isChecked(
+        print('Está marcado?', self.segunda_action.isChecked()
 
     def make_button(self, text
         btn = QPushButton(text
