@@ -36,7 +36,7 @@ class MyWindow(QMainWindow):
         # menuBar
         self.menu = self.menuBar()
         self.primeiro_menu = self.menu.addMenu('Primeiro menu')
-        self.primeira_acao = self.primeiro_menu.addAction('Primeira ação'
+        self.primeira_acao = self.primeiro_menu.addAction('Primeira ação')
         self.primeira_acao.triggered.connect(  # type:ignore
             self.muda_mensagem_da_status_bar
 
