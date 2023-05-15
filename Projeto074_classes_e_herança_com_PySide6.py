@@ -5,7 +5,7 @@ from PySide6.QtWidgets import (QApplication, QGridLayout, QMainWindow,
                                QPushButton, QWidget)
 
 
-class MyWindow(QMainWindow)
+class MyWindow(QMainWindow):
     def __init__(self, parent=None
         super().__init__(parent
 
