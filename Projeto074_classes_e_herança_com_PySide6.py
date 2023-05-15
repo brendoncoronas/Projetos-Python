@@ -49,7 +49,7 @@ class MyWindow(QMainWindow):
 
     @Slot()  # type: ignore
     def muda_mensagem_da_status_bar(self):
-        self.status_bar.showMessage('O meu slot foi executado
+        self.status_bar.showMessage('O meu slot foi executado'
 
     @Slot(  # type: ignore
     def segunda_acao_marcada(self
