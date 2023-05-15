@@ -45,7 +45,7 @@ class MyWindow(QMainWindow):
         self.segunda_action.toggled.connect(  # type:ignore
             self.segunda_acao_marcada)
         self.segunda_action.hovered.connect(  # type:ignore
-            self.segunda_acao_marcada
+            self.segunda_acao_marcada)
 
     @Slot(  # type: ignore
     def muda_mensagem_da_status_bar(self
