@@ -30,7 +30,7 @@ class MyWindow(QMainWindow):
         self.grid_layout.addWidget(self.botao3, 3, 1, 1, 2)
 
         # statusBar
-        self.status_bar = self.statusBar(
+        self.status_bar = self.statusBar()
         self.status_bar.showMessage('Mostrar mensagem na barra
 
         # menuBar
