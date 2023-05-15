@@ -20,7 +20,7 @@ class MyWindow(QMainWindow):
 
         self.botao2 = self.make_button('Botão 2')
 
-        self.botao3 = self.make_button('Terceiro
+        self.botao3 = self.make_button('Terceiro'
 
         self.grid_layout = QGridLayout(
         self.central_widget.setLayout(self.grid_layout
