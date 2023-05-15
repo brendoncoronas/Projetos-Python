@@ -11,7 +11,7 @@ class MyWindow(QMainWindow):
 
         self.central_widget = QWidget()
 
-        self.setCentralWidget(self.central_widget
+        self.setCentralWidget(self.central_widget)
         self.setWindowTitle('Minha janela bonita
 
         # Botão
