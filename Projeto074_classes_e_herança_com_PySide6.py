@@ -40,7 +40,7 @@ class MyWindow(QMainWindow):
         self.primeira_acao.triggered.connect(  # type:ignore
             self.muda_mensagem_da_status_bar)
 
-        self.segunda_action = self.primeiro_menu.addAction('Segunda ação'
+        self.segunda_action = self.primeiro_menu.addAction('Segunda ação')
         self.segunda_action.setCheckable(True
         self.segunda_action.toggled.connect(  # type:ignore
             self.segunda_acao_marcada
