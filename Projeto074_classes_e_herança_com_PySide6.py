@@ -9,7 +9,7 @@ class MyWindow(QMainWindow):
     def __init__(self, parent=None
         super().__init__(parent)
 
-        self.central_widget = QWidget(
+        self.central_widget = QWidget()
 
         self.setCentralWidget(self.central_widget
         self.setWindowTitle('Minha janela bonita
