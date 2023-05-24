@@ -9,7 +9,7 @@ from PySide6.QtWidgets import (QApplication, QGridLayout, QMainWindow,
 
 
 class MyWindow(QMainWindow):
-    def __init__(self, parent=None)
+    def __init__(self, parent=None):
         super().__init__(parent
 
         # botao1
