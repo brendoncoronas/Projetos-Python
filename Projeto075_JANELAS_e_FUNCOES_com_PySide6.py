@@ -16,7 +16,7 @@ class MyWindow(QMainWindow):
         self.botao1 = self.Make_Button('texto do botão1')
         self.botao1.clicked.connect(self.segunda_acao_marcada)
 
-        self.central_widget = QWidget( # widget generico
+        self.central_widget = QWidget() # widget generico
 
         # funcionalidades
         self.setCentralWidget(self.central_widget
