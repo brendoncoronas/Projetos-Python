@@ -63,7 +63,7 @@ class MyWindow(QMainWindow):
         # esta false ou true, depois que clicarmos o resultado muda)
 
     @Slot()  # type: ignore
-    def muda_mendagem_status_bar(self, status_bar
+    def muda_mendagem_status_bar(self, status_bar)
         status_bar.showMessage('o meu slot foi executado
 
     @Slot()  # type: ignore
