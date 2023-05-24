@@ -78,6 +78,6 @@ class MyWindow(QMainWindow):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    window = MyWindow(  # estamos usando agora o QMainWindow pois tem mais
+    window = MyWindow()  # estamos usando agora o QMainWindow pois tem mais
     window.show(
     app.exec(    # executa o loop da aplicação
