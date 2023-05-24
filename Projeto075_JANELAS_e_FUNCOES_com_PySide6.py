@@ -33,7 +33,7 @@ class MyWindow(QMainWindow):
         # podermos adicionar os widgets
 
         self.grid_layout.addWidget(self.botao1, 1, 1)
-        self.grid_layout.addWidget(self.botao2, 1, 2
+        self.grid_layout.addWidget(self.botao2, 1, 2)
         self.grid_layout.addWidget(self.botao3, 3, 1, 1, 2
         # falamos p o botao3 se expandir na mesma linha, porem se expandir
         # 2 colunas
