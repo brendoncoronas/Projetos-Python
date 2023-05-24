@@ -76,7 +76,7 @@ class MyWindow(QMainWindow):
         return bnt
 
 
-if __name__ == '__main__
+if __name__ == '__main__'
     app = QApplication(sys.argv
     window = MyWindow(  # estamos usando agora o QMainWindow pois tem mais
     window.show(
