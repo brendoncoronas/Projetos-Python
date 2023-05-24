@@ -46,7 +46,7 @@ class MyWindow(QMainWindow):
         self.menu = self.menuBar()
         self.primeiro_menu = self.menu.addMenu('primeiro menu')
         self.primeira_acao = self.primeiro_menu.addAction('primeira ação')
-        self.primeira_acao.triggered.connect(self.muda_mendagem_status_bar
+        self.primeira_acao.triggered.connect(self.muda_mendagem_status_bar)
 
         self.segunda_action = self.primeiro_menu.addAction('segunda ação')
         self.segunda_action.setCheckable(True
