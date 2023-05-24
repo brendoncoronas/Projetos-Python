@@ -71,7 +71,7 @@ class MyWindow(QMainWindow):
         print('esta marcado?', self.segunda_action.isChecked())
 
     def Make_Button(self, text):
-        bnt = QPushButton(text
+        bnt = QPushButton(text)
         bnt.setStyleSheet('font-size: 80px
         return bnt
 
