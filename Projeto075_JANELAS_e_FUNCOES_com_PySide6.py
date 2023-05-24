@@ -51,7 +51,7 @@ class MyWindow(QMainWindow):
         self.segunda_action = self.primeiro_menu.addAction('segunda ação')
         self.segunda_action.setCheckable(True)
         self.segunda_action.toggled.connect(
-            self.segunda_acao_marcada  # type: ignore
+            self.segunda_acao_marcada)  # type: ignore
         # pq na outra eu coloquei uma lambda e nessa não?
         # pq eu li na documentação que ja é automatico eu receber
         # checked(argumento da func) no 'outro_slot'
