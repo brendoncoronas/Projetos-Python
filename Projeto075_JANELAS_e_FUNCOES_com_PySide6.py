@@ -8,7 +8,7 @@ from PySide6.QtWidgets import (QApplication, QGridLayout, QMainWindow,
 # nesse super - caso eu recebe parent eu qro passar ele la para dentro
 
 
-class MyWindow(QMainWindow
+class MyWindow(QMainWindow)
     def __init__(self, parent=None
         super().__init__(parent
 
