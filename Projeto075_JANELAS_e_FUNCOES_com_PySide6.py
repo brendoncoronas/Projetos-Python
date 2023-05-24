@@ -57,7 +57,7 @@ class MyWindow(QMainWindow):
         # checked(argumento da func) no 'outro_slot'
 
         self.segunda_action.hovered.connect(
-            self.segunda_acao_marcada  # type: ignore
+            self.segunda_acao_marcada)  # type: ignore
         # estamos recebendo o 'segunda_action' por estamos implementando outra
         # funcionalidade nela tbm (de passar o mouse em cima e dizer se ela
         # esta false ou true, depois que clicarmos o resultado muda)
