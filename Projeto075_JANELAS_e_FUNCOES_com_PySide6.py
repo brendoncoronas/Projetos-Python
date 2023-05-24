@@ -44,7 +44,7 @@ class MyWindow(QMainWindow):
 
         # menuBar
         self.menu = self.menuBar()
-        self.primeiro_menu = self.menu.addMenu('primeiro menu
+        self.primeiro_menu = self.menu.addMenu('primeiro menu'
         self.primeira_acao = self.primeiro_menu.addAction('primeira ação
         self.primeira_acao.triggered.connect(self.muda_mendagem_status_bar
 
