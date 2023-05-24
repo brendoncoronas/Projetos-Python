@@ -25,7 +25,7 @@ class MyWindow(QMainWindow):
         self.botao2 = self.Make_Button('botão 2')
         self.botao3 = self.Make_Button('botão 3')
 
-        self.grid_layout = QGridLayout(  # layout para colocar outro widget
+        self.grid_layout = QGridLayout()  # layout para colocar outro widget
         # dentro do widget generico
 
         # aqui fazemos a ligação entre eles, para
