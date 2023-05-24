@@ -23,7 +23,7 @@ class MyWindow(QMainWindow):
         self.setWindowTitle('Minha janela bonita')
 
         self.botao2 = self.Make_Button('botão 2')
-        self.botao3 = self.Make_Button('botão 3'
+        self.botao3 = self.Make_Button('botão 3')
 
         self.grid_layout = QGridLayout(  # layout para colocar outro widget
         # dentro do widget generico
