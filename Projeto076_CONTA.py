@@ -57,7 +57,7 @@ class ContaCorrente(Conta):
 
         limite_maximo = -self.limite
 
-        if valor_pos_saque >= limite_maximo
+        if valor_pos_saque >= limite_maximo:
             self.saldo -= valor
             self.detalhes(f'(SAQUE {valor
             return self.saldo
