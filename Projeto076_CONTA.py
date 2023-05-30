@@ -17,7 +17,7 @@ class Conta(abc.ABC):
 
         return self.saldo
 
-    def detalhes(self, msg: str = '' -> None
+    def detalhes(self, msg: str = '') -> None
         print(f'o seu saldo é {self.saldo:.2f} {msg
         print('--')
 
