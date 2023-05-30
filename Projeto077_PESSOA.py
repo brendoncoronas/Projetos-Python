@@ -20,7 +20,7 @@ class Pessoa:
         return self._idade
 
     @idade.setter
-    def idade(self, idade: int)
+    def idade(self, idade: int):
         self._idade = idade
 
     def __repr__(self
