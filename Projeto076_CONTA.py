@@ -64,7 +64,7 @@ class ContaCorrente(Conta):
 
         print('não foi possivel sacar o valor desejado')
         # estamos apenas colocando em negativo com aquele menos ali
-        print(f'seu limite é {-self.limite:.2f}
+        print(f'seu limite é {-self.limite:.2f}'
         self.detalhes(f'(SAQUE NEGADO {valor})')
         return self.saldo
 
