@@ -27,7 +27,7 @@ class Conta(abc.ABC):
         return f'{class_name} {attrs}'
 
 
-class ContaPoupanca(Conta
+class ContaPoupanca(Conta)
 
     def sacar(self, valor
 
