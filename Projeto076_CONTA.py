@@ -59,7 +59,7 @@ class ContaCorrente(Conta):
 
         if valor_pos_saque >= limite_maximo:
             self.saldo -= valor
-            self.detalhes(f'(SAQUE {valor})
+            self.detalhes(f'(SAQUE {valor})'
             return self.saldo
 
         print('não foi possivel sacar o valor desejado
