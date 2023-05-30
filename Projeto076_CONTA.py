@@ -35,7 +35,7 @@ class ContaPoupanca(Conta):
 
         if valor_pos_saque >= 0:
             self.saldo -= valor
-            self.detalhes(f'(SAQUE {valor}
+            self.detalhes(f'(SAQUE {valor})
             return self.saldo
 
         print('não foi possivel sacar o valor desejado
