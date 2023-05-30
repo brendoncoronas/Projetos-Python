@@ -41,6 +41,6 @@ if __name__ == '__main__':
     print(c1)
     print(c1.conta)
     c2 = Cliente('brendon', 23)
-    c2.conta = aula147_CONTA.ContaCorrente(112, 223, 100, 100
+    c2.conta = aula147_CONTA.ContaCorrente(112, 223, 100, 100)
     print(c2
     print(c2.conta
