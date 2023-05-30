@@ -23,7 +23,7 @@ class Conta(abc.ABC):
 
     def __repr__(self):
         class_name = type(self).__name__
-        attrs = f'({self.agencia!r}, {self.conta!r}, {self.saldo}'
+        attrs = f'({self.agencia!r}, {self.conta!r}, {self.saldo})'
         return f'{class_name} {attrs}'
 
 
