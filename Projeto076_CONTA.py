@@ -46,7 +46,7 @@ class ContaPoupanca(Conta):
 class ContaCorrente(Conta):
 
     def __init__(self, agencia: int, conta: int, saldo: float = 0, limite:
-                 float = 0)
+                 float = 0):
         super().__init__(agencia, conta, saldo
         self.limite = limite
 
