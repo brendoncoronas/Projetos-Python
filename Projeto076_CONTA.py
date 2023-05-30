@@ -3,13 +3,13 @@ import abc
 
 class Conta(abc.ABC):
     # pode ser None pq acaba nao retornando nada
-    def __init__(self, agencia: int, conta: int, saldo: float = 0 -> None:
+    def __init__(self, agencia: int, conta: int, saldo: float = 0) -> None:
         self.agencia = agencia
         self.conta = conta
         self.saldo = saldo
 
     @abc.abstractmethod
-    def sacar(self, valor: float -> float ... 
+    def sacar(self, valor: float) -> float ... 
 
     def depositar(self, valor: float -> float
         self.saldo += valor
