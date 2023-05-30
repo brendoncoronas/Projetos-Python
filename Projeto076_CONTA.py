@@ -13,7 +13,7 @@ class Conta(abc.ABC):
 
     def depositar(self, valor: float) -> float:
         self.saldo += valor
-        self.detalhes(f'(DEPÓSITO {valor})'
+        self.detalhes(f'(DEPÓSITO {valor})')
 
         return self.saldo
 
