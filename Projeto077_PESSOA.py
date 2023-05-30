@@ -12,7 +12,7 @@ class Pessoa:
         return self._nome
 
     @nome.setter
-    def nome(self, nome: str
+    def nome(self, nome: str)
         self._nome = nome
 
     @property
