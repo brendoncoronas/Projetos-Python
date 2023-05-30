@@ -35,7 +35,7 @@ class Cliente(Pessoa):
         self.conta: aula147_CONTA.Conta | None = None
 
 
-if __name__ == '__main__'
+if __name__ == '__main__':
     c1 = Cliente('luiz', 30
     c1.conta = aula147_CONTA.ContaCorrente(111, 222, 0, 0
     print(c1
