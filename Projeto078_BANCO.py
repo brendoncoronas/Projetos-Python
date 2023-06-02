@@ -59,7 +59,7 @@ class Banco:
 
 
 if __name__ == '__main__':
-    c1 = aula148_PESSOA.Cliente('luiz', 30
+    c1 = aula148_PESSOA.Cliente('luiz', 30)
     cc1 = aula147_CONTA.ContaCorrente(111, 222, 0, 0
     c1.conta = cc1
 
