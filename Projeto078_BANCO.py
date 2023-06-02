@@ -6,7 +6,7 @@ class Banco:
     def __init__(  # é uma lista ou (| significa OU) None
             self,
             agencias: list[int] | None = None,
-            clientes: list[aula148_PESSOA.Pessoa] | None = None
+            clientes: list[aula148_PESSOA.Pessoa] | None = None,
             contas: list[aula147_CONTA.Conta] | None = None
     ):
         # se a algum desses abaixo for None, vai retornar uma lista vazia
