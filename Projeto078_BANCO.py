@@ -10,7 +10,7 @@ class Banco:
             contas: list[aula147_CONTA.Conta] | None = None,
     ):
         # se a algum desses abaixo for None, vai retornar uma lista vazia
-        self.agencias = agencias or [
+        self.agencias = agencias or []
         self.clientes = clientes or [
         self.contas = contas or [
 
