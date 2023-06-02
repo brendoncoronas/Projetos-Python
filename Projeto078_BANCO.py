@@ -71,7 +71,7 @@ if __name__ == '__main__':
     banco.contas.extend([cc1, cp1])
     banco.agencias.extend([111, 222])
 
-    if banco.autenticar(c1, cc1)
+    if banco.autenticar(c1, cc1):
         cc1.depositar(10
         c1.conta.depositar(100
         print(c1.conta
