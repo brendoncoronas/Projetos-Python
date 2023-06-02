@@ -32,7 +32,7 @@ class Banco:
         return False
 
     def _checa_conta(self, conta):
-        print('_checa_conta', True
+        print('_checa_conta', True)
         if conta in self.contas:
             return True
         print('_checa_aconta', False)
