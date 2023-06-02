@@ -20,7 +20,7 @@ class Banco:
             print('_checa_agencia', True)
             return True
 
-        print('_checa_agencia', False
+        print('_checa_agencia', False)
         return False
 
     def _checa_cliente(self, cliente  # se o cliente q eu recebi aqui estiver
