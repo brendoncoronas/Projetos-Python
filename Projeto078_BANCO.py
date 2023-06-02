@@ -12,7 +12,7 @@ class Banco:
         # se a algum desses abaixo for None, vai retornar uma lista vazia
         self.agencias = agencias or []
         self.clientes = clientes or []
-        self.contas = contas or [
+        self.contas = contas or []
 
     def _checa_agencias(self, conta  # se a agencia desse conta tiver em
         # self.agencias retorne true
