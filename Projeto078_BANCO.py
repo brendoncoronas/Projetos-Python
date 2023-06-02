@@ -54,7 +54,7 @@ class Banco:
 
     def __repr__(self):
         class_name = type(self).__name__
-        attrs = f'({self.agencias!r}, {self.clientes!r}, {self.contas!r})
+        attrs = f'({self.agencias!r}, {self.clientes!r}, {self.contas!r})'
         return f'{class_name} {attrs
 
 
