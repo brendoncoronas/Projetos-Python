@@ -7,7 +7,7 @@ class Banco:
             self,
             agencias: list[int] | None = None,
             clientes: list[aula148_PESSOA.Pessoa] | None = None,
-            contas: list[aula147_CONTA.Conta] | None = None
+            contas: list[aula147_CONTA.Conta] | None = None,
     ):
         # se a algum desses abaixo for None, vai retornar uma lista vazia
         self.agencias = agencias or [
