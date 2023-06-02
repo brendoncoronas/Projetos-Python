@@ -42,7 +42,7 @@ class Banco:
         if conta is cliente.conta:
             print('_checa_se_conta_e_do_cliente', True)
             return True
-        print('_checa_se_conta_e_do_cliente', False
+        print('_checa_se_conta_e_do_cliente', False)
         return False
 
     def autenticar(self, cliente: aula148_PESSOA.Pessoa, conta: aula147_CONTA.
