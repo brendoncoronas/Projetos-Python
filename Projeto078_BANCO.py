@@ -52,7 +52,7 @@ class Banco:
             self._checa_conta(conta) and \
             self._checa_se_conta_e_do_cliente(cliente, conta)
 
-    def __repr__(self
+    def __repr__(self)
         class_name = type(self).__name__
         attrs = f'({self.agencias!r}, {self.clientes!r}, {self.contas!r
         return f'{class_name} {attrs
