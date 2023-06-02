@@ -50,7 +50,7 @@ class Banco:
         return self._checa_agencias(conta) and \
             self._checa_cliente(cliente) and \
             self._checa_conta(conta) and \
-            self._checa_se_conta_e_do_cliente(cliente, conta
+            self._checa_se_conta_e_do_cliente(cliente, conta)
 
     def __repr__(self
         class_name = type(self).__name__
