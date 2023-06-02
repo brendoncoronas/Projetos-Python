@@ -26,7 +26,7 @@ class Banco:
     def _checa_cliente(self, cliente):  # se o cliente q eu recebi aqui estiver
         # em self.clientes retorne true
         if cliente in self.clientes:
-            print('_checa_cliente', True
+            print('_checa_cliente', True)
             return True
         print('_checa_cliente', False
         return False
