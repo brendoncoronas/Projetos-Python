@@ -63,7 +63,7 @@ if __name__ == '__main__':
     cc1 = aula147_CONTA.ContaCorrente(111, 222, 0, 0)
     c1.conta = cc1
 
-    c2 = aula148_PESSOA.Cliente('brendon', 23
+    c2 = aula148_PESSOA.Cliente('brendon', 23)
     cp1 = aula147_CONTA.ContaPoupanca(112, 223, 100
     c2.conta = cp1
     banco = Banco(
