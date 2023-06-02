@@ -28,7 +28,7 @@ class Banco:
         if cliente in self.clientes:
             print('_checa_cliente', True)
             return True
-        print('_checa_cliente', False
+        print('_checa_cliente', False)
         return False
 
     def _checa_conta(self, conta
