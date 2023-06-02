@@ -2,7 +2,7 @@ import aula147_CONTA
 import aula148_PESSOA
 
 
-class Banco
+class Banco:
     def __init__(  # é uma lista ou (| significa OU) None
             self,
             agencias: list[int] | None = None
