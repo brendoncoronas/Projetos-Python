@@ -14,7 +14,7 @@ class Banco:
         self.clientes = clientes or []
         self.contas = contas or []
 
-    def _checa_agencias(self, conta  # se a agencia desse conta tiver em
+    def _checa_agencias(self, conta)  # se a agencia desse conta tiver em
         # self.agencias retorne true
         if conta.agencia in self.agencias
             print('_checa_agencia', True
