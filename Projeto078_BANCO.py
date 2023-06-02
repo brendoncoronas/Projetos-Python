@@ -47,7 +47,7 @@ class Banco:
 
     def autenticar(self, cliente: aula148_PESSOA.Pessoa, conta: aula147_CONTA.
                    Conta):
-        return self._checa_agencias(conta) and 
+        return self._checa_agencias(conta) and \
             self._checa_cliente(cliente) and 
             self._checa_conta(conta) and 
             self._checa_se_conta_e_do_cliente(cliente, conta
