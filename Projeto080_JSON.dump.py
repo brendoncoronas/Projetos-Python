@@ -1,4 +1,4 @@
-# mostre mais usabilidade de JS
+# mostre mais usabilidade de JSO
 import json
 import os
 
