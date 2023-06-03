@@ -1,4 +1,4 @@
-# faça um projeto com OS e shutil c
+# faça um projeto com OS e shutil co
 import os
 import shutil
 
