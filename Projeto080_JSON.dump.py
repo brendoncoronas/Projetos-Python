@@ -18,7 +18,7 @@ filme = {
     'is_movie': True,
     'imdb_rating': 8.8,
     'year': 2001,
-    'characters': ['Frodo', 'Sam', 'Gandalf', 'Legolas', 'Boromir'
+    'characters': ['Frodo', 'Sam', 'Gandalf', 'Legolas', 'Boromir']
     'budget': None
 }
 
