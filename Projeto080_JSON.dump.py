@@ -9,7 +9,7 @@ CAMINHO_ABSOLUTO_ARQUIVO = os.path.abspath(
         os.path.dirname(__file__)
         NOME_ARQUIVO
     )
-
+)
 
 filme = {
     'title': 'O Senhor dos Anéis: A Sociedade do Anel
