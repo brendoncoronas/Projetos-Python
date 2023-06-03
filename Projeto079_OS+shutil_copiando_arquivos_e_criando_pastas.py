@@ -1,4 +1,4 @@
-# faça um projeto com OS e shutil com o que foi apresentado até agor
+# faça um projeto com OS e shutil com o que foi apresentado até agora
 import os
 import shutil
 
