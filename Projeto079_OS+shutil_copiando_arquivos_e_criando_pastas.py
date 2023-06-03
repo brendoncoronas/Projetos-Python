@@ -1,4 +1,4 @@
-# faça um projeto com OS e shutil com o que foi apresentado a
+# faça um projeto com OS e shutil com o que foi apresentado at
 import os
 import shutil
 
