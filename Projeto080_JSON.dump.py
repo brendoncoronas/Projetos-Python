@@ -1,4 +1,4 @@
-# mostre mais usabi
+# mostre mais usabil
 import json
 import os
 
