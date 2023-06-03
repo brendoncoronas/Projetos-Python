@@ -29,4 +29,4 @@ with open(CAMINHO_ABSOLUTO_ARQUIVO, 'w') as arquivo:
 
 with open(CAMINHO_ABSOLUTO_ARQUIVO, 'r') as arquivo:
     filme_do_json = json.load(arquivo)
-    print(filme_do_json
+    print(filme_do_json)
