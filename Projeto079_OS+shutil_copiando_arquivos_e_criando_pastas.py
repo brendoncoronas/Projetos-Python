@@ -1,4 +1,4 @@
-# faça um projeto com O
+# faça um projeto com OS
 import os
 import shutil
 
