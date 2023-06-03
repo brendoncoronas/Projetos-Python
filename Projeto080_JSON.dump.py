@@ -23,7 +23,7 @@ filme = {
 }
 
 with open(CAMINHO_ABSOLUTO_ARQUIVO, 'w') as arquivo:
-    json.dump(filme, arquivo, ensure_ascii=False, indent=2
+    json.dump(filme, arquivo, ensure_ascii=False, indent=2)
 # ensure_ascii=False, indent=2 serve para organizar melhor as infomaçoes do
 # json tornando mais legivel
 
