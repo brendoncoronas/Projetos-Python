@@ -27,6 +27,6 @@ with open(CAMINHO_ABSOLUTO_ARQUIVO, 'w') as arquivo:
 # ensure_ascii=False, indent=2 serve para organizar melhor as infomaçoes do
 # json tornando mais legivel
 
-with open(CAMINHO_ABSOLUTO_ARQUIVO, 'r') as arquivo
+with open(CAMINHO_ABSOLUTO_ARQUIVO, 'r') as arquivo:
     filme_do_json = json.load(arquivo
     print(filme_do_json
