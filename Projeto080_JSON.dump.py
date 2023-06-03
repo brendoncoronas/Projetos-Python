@@ -19,7 +19,7 @@ filme = {
     'imdb_rating': 8.8,
     'year': 2001,
     'characters': ['Frodo', 'Sam', 'Gandalf', 'Legolas', 'Boromir'],
-    'budget': None
+    'budget': None,
 }
 
 with open(CAMINHO_ABSOLUTO_ARQUIVO, 'w as arquivo
