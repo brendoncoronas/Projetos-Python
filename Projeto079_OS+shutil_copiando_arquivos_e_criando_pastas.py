@@ -17,7 +17,7 @@ for root, dirs, files in os.walk(PASTA_ORIGINAL):
 
     for file in files:
         caminho_arquivo = os.path.join(root, file)
-        caminnho_novo_arquivo = os.path.join(
+        caminnho_novo_arquivo = os.path.join()
             root.replace(PASTA_ORIGINAL, NOVA_PASTA), file
         
         shutil.copy(caminho_arquivo, caminnho_novo_arquivo
