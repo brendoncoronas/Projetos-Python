@@ -28,5 +28,5 @@ with open(CAMINHO_ABSOLUTO_ARQUIVO, 'w') as arquivo:
 # json tornando mais legivel
 
 with open(CAMINHO_ABSOLUTO_ARQUIVO, 'r') as arquivo:
-    filme_do_json = json.load(arquivo
+    filme_do_json = json.load(arquivo)
     print(filme_do_json
