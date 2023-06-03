@@ -1,4 +1,4 @@
-# mostre ma
+# mostre mai
 import json
 import os
 
