@@ -21,4 +21,4 @@ for root, dirs, files in os.walk(PASTA_ORIGINAL):
             root.replace(PASTA_ORIGINAL, NOVA_PASTA), file
             )
         
-        shutil.copy(caminho_arquivo, caminnho_novo_arquivo
+        shutil.copy(caminho_arquivo, caminnho_novo_arquivo)
