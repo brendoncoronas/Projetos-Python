@@ -15,7 +15,7 @@ for root, dirs, files in os.walk(PASTA_ORIGINAL):
         )
         os.makedirs(caminnho_novo_diretorio, exist_ok=True)
 
-    for file in files
+    for file in files:
         caminho_arquivo = os.path.join(root, file
         caminnho_novo_arquivo = os.path.join(
             root.replace(PASTA_ORIGINAL, NOVA_PASTA), file
