@@ -13,7 +13,7 @@ CAMINHO_ABSOLUTO_ARQUIVO = os.path.abspath(
 
 filme = {
     'title': 'O Senhor dos Anéis: A Sociedade do Anel',
-    'original_title': 'The Lord of the Rings: The Fellowship of the Ring
+    'original_title': 'The Lord of the Rings: The Fellowship of the Ring'
 
     'is_movie': True
     'imdb_rating': 8.8
