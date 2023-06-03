@@ -6,7 +6,7 @@ DESKTOP = os.path.join(HOME, 'Desktop')
 PASTA_ORIGINAL = os.path.join(DESKTOP, 'EXEMPLO')
 NOVA_PASTA = os.path.join(DESKTOP, 'NOVA_PASTA')
 
-os.makedirs(NOVA_PASTA, exist_ok=True
+os.makedirs(NOVA_PASTA, exist_ok=True)
 
 for root, dirs, files in os.walk(PASTA_ORIGINAL
     for dir_ in dirs
