@@ -13,7 +13,7 @@ for root, dirs, files in os.walk(PASTA_ORIGINAL):
         caminnho_novo_diretorio = os.path.join(
             root.replace(PASTA_ORIGINAL, NOVA_PASTA), dir_
         )
-        os.makedirs(caminnho_novo_diretorio, exist_ok=True
+        os.makedirs(caminnho_novo_diretorio, exist_ok=True)
 
     for file in files
         caminho_arquivo = os.path.join(root, file
