@@ -1,4 +1,4 @@
-# mostre mais u
+# mostre mais us
 import json
 import os
 
