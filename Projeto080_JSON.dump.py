@@ -1,4 +1,4 @@
-# mos
+# most
 import json
 import os
 
