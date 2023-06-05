@@ -35,7 +35,7 @@ class CalculatorApp(QMainWindow):
             result = eval(expression)
             self.result_label.setText(f"Resultado: {result}")
         except Exception as e:
-            self.result_label.setText(f"Erro: {str(e)}
+            self.result_label.setText(f"Erro: {str(e)}"
 
 
 if __name__ == "__main__
