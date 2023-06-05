@@ -38,7 +38,7 @@ class CalculatorApp(QMainWindow):
             self.result_label.setText(f"Erro: {str(e)}")
 
 
-if __name__ == "__main__
+if __name__ == "__main__"
     app = QApplication(sys.argv
     calculator = CalculatorApp(
     calculator.show(
