@@ -23,7 +23,7 @@ class CalculatorApp(QMainWindow):
         layout.addWidget(self.input_label)
         layout.addWidget(self.input_lineedit)
         layout.addWidget(self.result_label)
-        layout.addWidget(self.calculate_button
+        layout.addWidget(self.calculate_button)
 
         central_widget = QWidget(
         central_widget.setLayout(layout
