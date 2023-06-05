@@ -6,7 +6,7 @@ from PySide6.QtWidgets import (QApplication, QLabel, QLineEdit, QMainWindow,
 
 
 class CalculatorApp(QMainWindow):
-    def __init__(self)
+    def __init__(self):
         super().__init__(
         self.setWindowTitle("Calculadora
         self.setFixedSize(300, 200
