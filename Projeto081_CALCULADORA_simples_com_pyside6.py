@@ -39,7 +39,7 @@ class CalculatorApp(QMainWindow):
 
 
 if __name__ == "__main__":
-    app = QApplication(sys.argv
+    app = QApplication(sys.argv)
     calculator = CalculatorApp(
     calculator.show(
     sys.exit(app.exec(
