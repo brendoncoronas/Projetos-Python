@@ -30,7 +30,7 @@ class CalculatorApp(QMainWindow):
         self.setCentralWidget(central_widget)
 
     def calculate_result(self):
-        expression = self.input_lineedit.text(
+        expression = self.input_lineedit.text()
         try
             result = eval(expression
             self.result_label.setText(f"Resultado: {result
