@@ -14,7 +14,7 @@ class CalculatorApp(QMainWindow):
         layout = QVBoxLayout()
 
         self.input_label = QLabel("Digite a expressão")
-        self.input_lineedit = QLineEdit(
+        self.input_lineedit = QLineEdit()
         self.result_label = QLabel("Resultado
 
         self.calculate_button = QPushButton("Calcular
