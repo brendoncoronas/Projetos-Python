@@ -26,7 +26,7 @@ class CalculatorApp(QMainWindow):
         layout.addWidget(self.calculate_button)
 
         central_widget = QWidget()
-        central_widget.setLayout(layout
+        central_widget.setLayout(layout)
         self.setCentralWidget(central_widget
 
     def calculate_result(self
