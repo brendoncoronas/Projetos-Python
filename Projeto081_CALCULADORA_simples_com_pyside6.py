@@ -27,7 +27,7 @@ class CalculatorApp(QMainWindow):
 
         central_widget = QWidget()
         central_widget.setLayout(layout)
-        self.setCentralWidget(central_widget
+        self.setCentralWidget(central_widget)
 
     def calculate_result(self
         expression = self.input_lineedit.text(
