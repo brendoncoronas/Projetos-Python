@@ -11,7 +11,7 @@ class CalculatorApp(QMainWindow):
         self.setWindowTitle("Calculadora")
         self.setFixedSize(300, 200)
 
-        layout = QVBoxLayout(
+        layout = QVBoxLayout()
 
         self.input_label = QLabel("Digite a expressão
         self.input_lineedit = QLineEdit(
