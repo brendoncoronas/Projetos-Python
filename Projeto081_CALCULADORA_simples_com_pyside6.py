@@ -31,7 +31,7 @@ class CalculatorApp(QMainWindow):
 
     def calculate_result(self):
         expression = self.input_lineedit.text()
-        try
+        try:
             result = eval(expression
             self.result_label.setText(f"Resultado: {result
         except Exception as e
