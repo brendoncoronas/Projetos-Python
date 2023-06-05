@@ -33,7 +33,7 @@ class CalculatorApp(QMainWindow):
         expression = self.input_lineedit.text()
         try:
             result = eval(expression)
-            self.result_label.setText(f"Resultado: {result}"
+            self.result_label.setText(f"Resultado: {result}")
         except Exception as e
             self.result_label.setText(f"Erro: {str(e
 
