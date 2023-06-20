@@ -11,7 +11,7 @@ lista_de_listas_de_inteiros = [
     [4,7,6,5,2,9,2,1,2,1],
     [5,3,1,8,5,7,1,8,8,7],
     [10,9,8,7,6,5,4,3,2,1],
-
+]
 
 def encontra_primeiro_duplicado(lista_de_inteiros):
     primeiro_duplicado = -1
