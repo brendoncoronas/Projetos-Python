@@ -15,7 +15,7 @@ while linha <= qtd_linhas:
         print(f'{linha=}, {coluna=}')  # para cada linha sao 6 voltas na coluna!
         coluna += 1
 
-    linha +=
+    linha +=1
 
 print('acabou.')  
 
