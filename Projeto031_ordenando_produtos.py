@@ -21,6 +21,6 @@ produtos_ordenados_por_nome = sorted(
 )
 
 
-print(*produtos_ordenados_por_nome, sep='\n'
+print(*produtos_ordenados_por_nome, sep='\n')
 print()
 
