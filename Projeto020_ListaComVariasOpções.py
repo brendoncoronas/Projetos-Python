@@ -7,7 +7,7 @@ fazer uma lista de tarefas com as seguintes opçoes:
     opção de refazer(a cada vez que chamarmos, refaz a ultima ação)
 """
 
-def do_redo(todo_list,redo_list):
+def do_redo(todo_list,redo_list)
     if not redo_list:
         print('nada para refazer.')
         return
