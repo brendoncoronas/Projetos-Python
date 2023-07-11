@@ -24,7 +24,7 @@ for pk,pv in perguntas.items():
 
     print('respostas:')
 
-    for rk,rv in pv['respostas'].items():
+    for rk,rv in pv['respostas'].items()
         print(f'[{rk}]: {rv}')
 
     resposta_usurio = input('sua resposta:')
