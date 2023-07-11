@@ -20,7 +20,7 @@ while True:
         numeros_validos = True  # estamos usando essa VAR para checagem, se n gerar erro no try logo ela se torna True
 
     except:    
-        numeros_validos = None
+        numeros_validos = Non
 
     if numeros_validos is None:
         print('um ou ambos os numeros digitados são invalidos.') 
