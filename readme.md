@@ -18,4 +18,4 @@ Neste repositório, você encontrará uma variedade de projetos. Cada projeto po
 
 Embora este repositório seja principalmente voltado para documentar minha jornada pessoal, estou aberto a feedback construtivo e sugestões. Se você identificar maneiras pelas quais posso melhorar meu código ou abordagens, sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull. Afinal, a colaboração também faz parte do processo de aprendizado.
 
-Agradeço por visitar este repositório e espero que você desfrute acompanhando minha jornada no mundo da programação Python. Vamos aprender e crescer juntos!
+Agradeço por visitar este repositório e espero que você desfrute acompanhando minha jornada no mundo da programação. Vamos aprender e crescer juntos!
