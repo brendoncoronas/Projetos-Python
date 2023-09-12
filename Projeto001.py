@@ -5,7 +5,7 @@
 # quantas letras tem 
 # o nome invertido
   
-nome = input('digite seu nome:')
+nome = input('digite seu nome:') 
 idade = input('digite sua idade:')
 
 if nome and idade:
