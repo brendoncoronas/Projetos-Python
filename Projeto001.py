@@ -1,6 +1,6 @@
 # faça um prjeto que
 # analise o nome que 
-# a pessoa colocar
+# a pessoa colocar  
 # diga se o nome tem espaços
 # quantas letras tem 
 # o nome invertido
