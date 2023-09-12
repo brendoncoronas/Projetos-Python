@@ -4,7 +4,7 @@
 # diga se o nome tem espaços
 # quantas letras tem 
 # o nome invertido
-
+  
 nome = input('digite seu nome:')
 idade = input('digite sua idade:')
 
